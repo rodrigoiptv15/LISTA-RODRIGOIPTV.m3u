@@ -141,3 +141,19 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",SING
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
+
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 11
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E11.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 12
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E12.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 13
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E13.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 14
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E14.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 15
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
