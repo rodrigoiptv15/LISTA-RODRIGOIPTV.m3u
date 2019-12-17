@@ -102,5 +102,42 @@ http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/du
 #EXTINF:-1 group-title="IMPUROS 2",EP 05
 http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/5.mp4?rm=ZFsZP09ByWIOBFtoDVS6dw&rf=1576629009
 
-#EXTINF:-1 group-title="FILMES",sing
-http://cdn1.neofilmes.top/data/FILMES/sing-quem-canta-seus-males-espanta-2016-dub.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
+http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",Moana
+http://samurai02.polybotes.feralhosting.com/Infantil/MOANA.UM.MAR.DE.AVENTURAS.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",Enrolados
+http://samurai02.polybotes.feralhosting.com/Infantil/ENROLADOS.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",frozem
+http://samurai02.polybotes.feralhosting.com/Infantil/FROZEN.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",meu malvado favorito 2
+http://samurai02.polybotes.feralhosting.com/Infantil/MEU.MALVADO.FAVORITO.2.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",meu malvado favorito 3
+http://samurai02.polybotes.feralhosting.com/Infantil/MEU.MALVADO.FAVORITO.3.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",meu malvado favorito
+http://samurai02.polybotes.feralhosting.com/Infantil/MEU.MALVADO.FAVORITO.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",Minions
+http://samurai02.polybotes.feralhosting.com/Infantil/MINIONS.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",Madagascar
+http://samurai02.polybotes.feralhosting.com/Infantil/Madagascar.1.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",olaf
+http://samurai02.polybotes.feralhosting.com/Infantil/OLAF.EM.UMA.NOVA.AVENTURA.CONGELANTE.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",procurando Dory
+http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.DORY.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",procurando Nemo
+http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",SING
+http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
