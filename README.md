@@ -1,5 +1,10 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES",A perfeição
+https://5nr6of.vkcache.com/secip/0/0xeqVhWv7LoX4FqCnXLw9w/MTg3Ljg0LjExLjI1Mg==/1576659600/hls-vod-s01/flv/api/files/videos/2019/07/11/1562848443oszjj.mp4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES",Corra
+https://6rf7dt.vkcache.com/secip/0/0xeqVhWv7LoX4FqCnXLw9w/MTg3Ljg0LjExLjI1Mg==/1576659600/hls-vod-s10/flv/api/files/videos/2019/07/24/1563932836ybiog.mp4.m3u8
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 07
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E07.mp4
