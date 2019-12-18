@@ -20,46 +20,20 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E11.mp4
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E12.mp4
 
 
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 01
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E01.mp4
+#EXTINF:-1 group-title="IMPUROS 2",EP 06
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/6.mp4?rm=in2Y72ufP623hfyrf_nZDA&rf=1576780213
 
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 02
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E02.mp4
+#EXTINF:-1 group-title="IMPUROS 2",EP 07
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/7.mp4?rm=Q9irpH7iTPmUR-umxaKxPA&rf=1576780250
 
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 03
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E03.mp4
+#EXTINF:-1 group-title="IMPUROS 2",EP 08
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/8.mp4?rm=FLQ5TZMCBa9BY9Rv-jZBsw&rf=1576780274
 
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 04
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E04.mp4
+#EXTINF:-1 group-title="IMPUROS 2",EP 09
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/9.mp4?rm=a1IouBEQ0yPU-ylad0EevA&rf=1576780297
 
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 05
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E05.mp4
-
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 06
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E06.mp4
-
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 07
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E07.mp4
-
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 08
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E08.mp4
-
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 09
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E09.mp4
-
-#EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 10
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E10.mp4
-
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 03
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/3.mp4?rm=F0mYr8RceXmL_5HS9WHYhg&rf=1576767349
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 04
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/4.mp4?rm=M225CRjel7sMehEQqznUPg&rf=1576767403
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 05
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/5.mp4?rm=ZXoLRZ_MM07RaYe0816_Gw&rf=1576767429
-
+#EXTINF:-1 group-title="IMPUROS 2",EP 10
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/10.mp4?rm=1JMLLkvzVjR6wJKWpihAVA&rf=1576780320
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
