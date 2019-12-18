@@ -160,3 +160,6 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
 
 #EXTINF:-1 group-title="FILMES",PRODÍGIO
 https://jfr5sf.vkcache.com/secip/0/0xeqVhWv7LoX4FqCnXLw9w/MTg3Ljg0LjExLjI1Mg==/1576659600/hls-vod-s04/flv/api/files/videos/2019/07/11/1562805234epvxv.mp4.m3u8
+
+#EXTINF:-1 group-title="CANAIS",live
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
