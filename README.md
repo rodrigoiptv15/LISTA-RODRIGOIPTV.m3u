@@ -89,3 +89,6 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E14.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio 6",EP 15
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
+
+#EXTINF:-1 group-title="FILMES",OS ESPECIALISTAS
+https://video.wixstatic.com/video/3f69cf_c23f4b18021243959ecdb075b15bcc83/480p/mp4/file.mp4
