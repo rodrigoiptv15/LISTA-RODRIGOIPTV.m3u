@@ -1,5 +1,6 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 07
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E07.mp4
 
@@ -48,6 +49,16 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E09.mp4
 
 #EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 10
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E10.mp4
+
+
+#EXTINF:-1 group-title="IMPUROS 2",EP 03
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/3.mp4?rm=F0mYr8RceXmL_5HS9WHYhg&rf=1576767349
+
+#EXTINF:-1 group-title="IMPUROS 2",EP 04
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/4.mp4?rm=M225CRjel7sMehEQqznUPg&rf=1576767403
+
+#EXTINF:-1 group-title="IMPUROS 2",EP 05
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/5.mp4?rm=ZXoLRZ_MM07RaYe0816_Gw&rf=1576767429
 
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
@@ -104,4 +115,3 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E14.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio 6",EP 15
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
-
