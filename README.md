@@ -19,42 +19,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E11.mp4
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 12
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E12.mp4
 
-#EXTINF:-1 group-title="O RESIDENTE",EP 03
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E03.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 04
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E04.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 05
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E05.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 06
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E06.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 07
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E07.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 08
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E08.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 09
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E09.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 10
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E10.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 11
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E11.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 12
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E12.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 13
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E13.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 14
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E14.mp4
-
 
 #EXTINF:-1 group-title="DOIS HOMENS E MEIO 6",EP 01
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E01.mp4
