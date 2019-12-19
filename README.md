@@ -181,3 +181,6 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c0ad7e
 
 #EXTINF:-1 group-title="CANAIS",FOX PREMIUM 1
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_99899ec03832f71264c6e0d52d6bec4a6f807692/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",FOX PREMIUM 2
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium2_2456caf1_63e354e79c92c9498d58d4667774bb950f7617ed/playlist.m3u8
