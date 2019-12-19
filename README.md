@@ -197,5 +197,14 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_1904e925cc9f8c6
 #EXTINF:-1 group-title="CANAIS",FOX
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_69ccd858afb58d8344f44e1f440a0110c7eda9eb/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS",PREMIERE CLUB
+#EXTINF:-1 group-title="CANAIS",PREMIERE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_985169f337bdc0c15a7ff07a448501c3ad08d320/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",ANIMAL PLANET
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_8ac63396b7eddd30462cf33c6fb727d7ad2b6690/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_ff2603321376377ec9fd78564b38610ded7eb7b9/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",CINEMAX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_df1005319b92d86a4f164df73e1adb291bda31a1/playlist.m3u8
