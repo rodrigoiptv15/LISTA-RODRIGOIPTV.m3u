@@ -177,4 +177,4 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E10.mp4
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2900b517015215927745b402db98d8c4e1b7e21a/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TELECINE ACTION HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_7c03e045f41adf7b9fdd9da7facd08daa00dcc75/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c0ad7e7d415eb11931245b045d132eae15955011/playlist.m3u8
