@@ -196,3 +196,6 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_1904e925cc9f8c6
 
 #EXTINF:-1 group-title="CANAIS",FOX
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_69ccd858afb58d8344f44e1f440a0110c7eda9eb/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",COPACABANA
+https://videos3.earthcam.com/fecnetwork/6593.flv/media_w2127574808_5603.ts?t=v81YHtRnSLjCYkjUlJVO68i6kiEsZj4R6l99nBCFTyw%3D
