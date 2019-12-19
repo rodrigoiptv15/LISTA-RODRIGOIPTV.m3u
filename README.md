@@ -178,3 +178,6 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2900b5
 
 #EXTINF:-1 group-title="CANAIS",TELECINE ACTION HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_c0ad7e7d415eb11931245b045d132eae15955011/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",FOX PREMIUM 1
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_99899ec03832f71264c6e0d52d6bec4a6f807692/playlist.m3u8
