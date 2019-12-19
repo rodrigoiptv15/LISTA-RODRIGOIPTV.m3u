@@ -120,3 +120,18 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E24.mp4
 
 #EXTINF:-1 group-title="FILMES",OS ESPECIALISTAS
 https://video.wixstatic.com/video/3f69cf_c23f4b18021243959ecdb075b15bcc83/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="FILMES",Brinquedo assassino
+https://video.wixstatic.com/video/3f69cf_cdaa3e3705ce45cfbef89bfaa15741a6/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="FILMES",johnwick 3
+http://oniichan.receitasgratis.xyz/backup/pasta1/johnwick3.DUB_480p.mp4
+
+#EXTINF:-1 group-title="FILMES",PredadoresAssassinos
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/PredadoresAssassinosV2.mp4
+
+#EXTINF:-1 group-title="FILMES",shazam
+http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/shazamdub-480p.mp4
+
+#EXTINF:-1 group-title="FILMES",campo do medo
+http://oniichan.receitasgratis.xyz/conteudo/Filmes/campodomedo.mp4
