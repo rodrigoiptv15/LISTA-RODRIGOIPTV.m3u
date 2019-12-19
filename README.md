@@ -206,5 +206,17 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/animalplanet_e114c448_8ac63396
 #EXTINF:-1 group-title="CANAIS",COMBATE
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_ff2603321376377ec9fd78564b38610ded7eb7b9/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS",CINEMAX
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_df1005319b92d86a4f164df73e1adb291bda31a1/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS",GLOBO SP HD
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/globosphd_3a69aa1b_36403882b6e3213b0c9d41397b497bd868d2b3ae/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",SBT SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/sbtsp_2a5ac580_bac99ae01ac91d70e10a994a146ba1af9765d2e0/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",RECORD SP
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/record_3554dce5_b76b074de391e653550b07561681df542fae78a4/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",REDE TV!
+http://edge-aws.aovivo.club/hls/s:78.47.74.192/redetv_45cbe19f_afdfa17b7fae4237d5dd0b79957abe548241075f/270p/chunklist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",INVESTIGAÇÃO DISCOVERY
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_242286d5efac082df81bee0663438678ae153971/playlist.m3u8
