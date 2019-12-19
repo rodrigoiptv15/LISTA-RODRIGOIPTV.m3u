@@ -196,3 +196,6 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_1904e925cc9f8c6
 
 #EXTINF:-1 group-title="CANAIS",FOX
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_69ccd858afb58d8344f44e1f440a0110c7eda9eb/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",PREMIERE CLUB
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/premiereclubes_3f1522d0_985169f337bdc0c15a7ff07a448501c3ad08d320/playlist.m3u8
