@@ -1,39 +1,10 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 07
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E07.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 08
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E08.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 09
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E09.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 10
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E10.mp4
-
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 11
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E11.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX T4 ",EP 12
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S04/S04E12.mp4
-
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 06
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/6.mp4?rm=in2Y72ufP623hfyrf_nZDA&rf=1576780213
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 07
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/7.mp4?rm=Q9irpH7iTPmUR-umxaKxPA&rf=1576780250
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 08
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/8.mp4?rm=FLQ5TZMCBa9BY9Rv-jZBsw&rf=1576780274
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 09
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/9.mp4?rm=a1IouBEQ0yPU-ylad0EevA&rf=1576780297
-
-#EXTINF:-1 group-title="IMPUROS 2",EP 10
-http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-7/impuros/2-temp/dub/sd/10.mp4?rm=1JMLLkvzVjR6wJKWpihAVA&rf=1576780320
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
@@ -169,10 +140,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E09.mp4
 #EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 10
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E10.mp4
 
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
-
 #EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2900b517015215927745b402db98d8c4e1b7e21a/playlist.m3u8
 
@@ -220,3 +187,65 @@ http://edge-aws.aovivo.club/hls/s:78.47.74.192/redetv_45cbe19f_afdfa17b7fae4237d
 
 #EXTINF:-1 group-title="CANAIS",INVESTIGAÇÃO DISCOVERY
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/investigacaodiscovery_4d134bc0_242286d5efac082df81bee0663438678ae153971/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 01
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E01.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 02
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/2.mp4?rm=czLDbaggyeZ_dLcl3Gjbdw&rf=1576875775
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 03
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E03.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 04
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E04.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 05
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E05.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 06
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/6.mp4?rm=3Nu2jLiGRsGgX14jFHL-2g&rf=1576876039
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 07
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E07.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 08
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E08.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 09
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E09.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 10
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E10.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 11
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/11.mp4?rm=6pERTVBLSGtCWrxmFFELDg&rf=1576868023
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 12
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E12.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 13
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/13.mp4?rm=InjHFmTChiWdVijHaGi0lQ&rf=1576869579
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 14
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E14.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 15
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E15.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 16
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E16.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 17
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E17.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 18
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E18.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 19
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E19.mp4
+
+#EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 20
+http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/20.mp4?rm=8DyEgcyMlMnEdHyZcvqsKw&rf=1576876180
