@@ -138,3 +138,33 @@ http://oniichan.receitasgratis.xyz/conteudo/Filmes/campodomedo.mp4
 
 #EXTINF:-1 group-title="FILMES",Ma
 https://video.wixstatic.com/video/f50e14_ac4ba978ee2f42dd91cec782feec0fc1/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 01
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E01.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 02
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E02.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 03
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E03.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 04
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E04.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 05
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E05.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 06
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E06.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 07
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E07.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 08
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E08.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 09
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E09.mp4
+
+#EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 10
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E10.mp4
