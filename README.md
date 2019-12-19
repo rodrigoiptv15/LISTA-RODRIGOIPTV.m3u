@@ -184,3 +184,6 @@ http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxpremium1_1bdf1a2f_99899ec03
 
 #EXTINF:-1 group-title="CANAIS",FOX PREMIUM 2
 http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium2_2456caf1_63e354e79c92c9498d58d4667774bb950f7617ed/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MTV BRASIL
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_91a19d1875c18f1700f2d8c8e2e9b26b51cb5e54/playlist.m3u8
