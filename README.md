@@ -90,5 +90,33 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E14.mp4
 #EXTINF:-1 group-title="Dois homens e meio 6",EP 15
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
 
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 16
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E16.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 17
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E17.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 18
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E18.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 19
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E19.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 20
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E20.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 21
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E21.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 22
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E22.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 23
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E23.mp4
+
+#EXTINF:-1 group-title="Dois homens e meio 6",EP 24
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E24.mp4
+
+
 #EXTINF:-1 group-title="FILMES",OS ESPECIALISTAS
 https://video.wixstatic.com/video/3f69cf_c23f4b18021243959ecdb075b15bcc83/480p/mp4/file.mp4
