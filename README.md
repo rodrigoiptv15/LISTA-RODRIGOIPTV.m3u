@@ -135,3 +135,6 @@ http://oniichan.receitasgratis.xyz/backup/pasta1/backup/backup1/filmes/shazamdub
 
 #EXTINF:-1 group-title="FILMES",campo do medo
 http://oniichan.receitasgratis.xyz/conteudo/Filmes/campodomedo.mp4
+
+#EXTINF:-1 group-title="FILMES",Ma
+https://video.wixstatic.com/video/f50e14_ac4ba978ee2f42dd91cec782feec0fc1/480p/mp4/file.mp4
