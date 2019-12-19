@@ -45,37 +45,6 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 #EXTINF:-1 group-title="FILMES ALICE",SING
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
 
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 11
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E11.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 12
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E12.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 13
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E13.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 14
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E14.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 15
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E15.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 16
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E16.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 17
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E17.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 18
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E18.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 19
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E19.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio 6",EP 20
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E20.mp4
-
 #EXTINF:-1 group-title="Dois homens e meio 6",EP 21
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S06/S06E21.mp4
 
@@ -249,3 +218,27 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E19.mp4
 
 #EXTINF:-1 group-title="DOIS HOMENS E MEIO 7",EP 20
 http://p1---3xuh3o0u-s552.gvideo.gstreaming.network/series/p-9/two-and-a-half-men/7-temp/dub/sd/20.mp4?rm=8DyEgcyMlMnEdHyZcvqsKw&rf=1576876180
+
+#EXTINF:-1 group-title="Black Sails",EP 01
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E01.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 02
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E02.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 03
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E03.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 04
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E04.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 05
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E05.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 06
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E06.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 07
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E07.mp4
+
+#EXTINF:-1 group-title="Black Sails",EP 08
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E08.mp4
