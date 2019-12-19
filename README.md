@@ -168,3 +168,10 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E09.mp4
 
 #EXTINF:-1 group-title="De.Ferias.Com.o.EX.Brasil 1",EP 10
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S01/S01E10.mp4
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2900b517015215927745b402db98d8c4e1b7e21a/playlist.m3u8
