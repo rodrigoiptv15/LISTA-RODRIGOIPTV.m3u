@@ -187,3 +187,12 @@ http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium2_2456caf1_63e354e79c9
 
 #EXTINF:-1 group-title="CANAIS",MTV BRASIL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasil_7719a1c7_91a19d1875c18f1700f2d8c8e2e9b26b51cb5e54/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TNT SERIES
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tntseries_3bb18d9a_f016d203368094521bdd279806d0c8e0182f6439/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",SPACE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_1904e925cc9f8c6c6c834af0a1d6890cf260f9a2/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS",FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_69ccd858afb58d8344f44e1f440a0110c7eda9eb/playlist.m3u8
