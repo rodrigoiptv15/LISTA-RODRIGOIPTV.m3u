@@ -168,4 +168,41 @@ http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E07.mp4
 #EXTINF:-1 group-title="Black Sails",EP 08
 http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E08.mp4
 
-#EXTINF:-1 group-title="CANAIS",
+#EXTINF:-1 group-title="DOIS homens e meio 7",EP 22
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S07/S07E22.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 01
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E01.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 02
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E02.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 03
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E03.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 04
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E04.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 05
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E05.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 06
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E06.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 07
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E07.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 08
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E08.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 09
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E09.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 10
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E10.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 11
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E11.mp4
+
+#EXTINF:-1 group-title="DOIS homens e meio 8",EP 12
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S08/S08E12.mp4
