@@ -160,5 +160,5 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E09.mp4
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 10
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E10.mp4
 
-#EXTINF:-1 group-title="link",TELECINE PIPOCA 1
-http://player.aovivo.club/2bc3f154-e393-4e2b-b99a-2670e8d5983c
+#EXTINF:-1 group-title="CANAIS",GLOBO
+https://globolive.akamaized.net/d/c/x2800/s/hls-globo-sp1/hls-globo-sp1_1485/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e&ssx=.ts
