@@ -129,3 +129,33 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.in
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="CANAIS", RADIO 105 TV SD ITALIA
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 01
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E01.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 02
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E02.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 03
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E03.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 04
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E04.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 05
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E05.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 06
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E06.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 07
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E08.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 08
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E08.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 09
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E09.mp4
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 10
+http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E10.mp4
