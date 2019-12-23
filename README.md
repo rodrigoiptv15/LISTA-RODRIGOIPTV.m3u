@@ -159,3 +159,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E09.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 10
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E10.mp4
+
+#EXTINF:-1 group-title="link",TELECINE PIPOCA
+http://aovivo.club/assistir-telecine-pipoca-ao-vivo-hd/
