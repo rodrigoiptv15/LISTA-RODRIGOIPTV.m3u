@@ -44,7 +44,7 @@ http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALE
 https://video.wixstatic.com/video/3f69cf_c23f4b18021243959ecdb075b15bcc83/480p/mp4/file.mp4
 
 #EXTINF:-1 group-title="FILMES",Brinquedo assassino
-https://video.wixstatic.com/video/3f69cf_cdaa3e3705ce45cfbef89bfaa15741a6/480p/mp4/file.mp4
+https://www370.hlsmp4.com/token=OFJKB4fopNECWA3yI1DdUA/1577076614/187.84.0.0/78/9/2d/f7cc4d48fd3ddbf3174293d8acb042d9-720p.mp4
 
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 01
