@@ -296,5 +296,5 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 
-#EXTINF:-1 group-title="CANAIS",playboy
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33602
+#EXTINF:-1 group-title="CANAIS",Charlie
+https://youtu.be/39Wu_iXEG5k
