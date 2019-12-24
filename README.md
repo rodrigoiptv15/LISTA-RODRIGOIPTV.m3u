@@ -296,5 +296,5 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 
-#EXTINF:-1 group-title="CANAIS",face
-https://www.facebook.com/videosderapoficial/videos/488071268734532/
+#EXTINF:-1 group-title="CANAIS",espelho
+http://192.168.1.128:8080
