@@ -222,3 +222,45 @@ https://1.bp.blogspot.com/-NeX-nAkymDM/XbqVJLzgugI/AAAAAAAAZ8M/43VsySwDFGYcjjS81
 
 #EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 036 Trampolim
 https://1.bp.blogspot.com/-qajZpQIVxl4/XbqVJM_wiKI/AAAAAAAAZ8M/PNol-l6IqmEnFXVBYmdW_WnyAPlwRpPIgCKgBGAsYHg/m22/036%2BTrampolim.mkv
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 01
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E01.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 02
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E02.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 03
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E03.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 04
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E04.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 05
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E05.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 06
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E06.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 07
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E07.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 08
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E08.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 09
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E09.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 10
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E10.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 11
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E11.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 12
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E12.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 13
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E13.mp4
+
+#EXTINF:-1 group-title="O RESIDENTE",EP 14
+http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E14.mp4
