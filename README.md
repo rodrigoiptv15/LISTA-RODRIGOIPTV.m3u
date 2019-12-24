@@ -159,3 +159,66 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E09.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 10
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E10.mp4
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 1ª Temporada 016 Dor
+https://4.bp.blogspot.com/-fg_zs4FhB24/XIoE5-UpccI/AAAAAAAACbo/AnqSjj7IhMgqpM89b8hb3cybghsaUVWDgCKgBGAs/m22/016%2BO%2BBom%2BDoutor%2B1%25C2%25AA%2BTemporada%2B2018.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 1ª Temporada 017 Sorria
+https://3.bp.blogspot.com/-fEiO0IGxyxM/XIoE53j7IaI/AAAAAAAACbo/lq2mUf52ZI422ULJSUVGnsuXyQb9SbgfwCKgBGAs/m22/017%2BO%2BBom%2BDoutor%2B1%25C2%25AA%2BTemporada%2B2018.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 1ª Temporada 018 Mais
+https://4.bp.blogspot.com/-hVwd214XO38/XIoE50CC9MI/AAAAAAAACbo/6eoKhHc-SmsWr5ToG_c4ZwU4-ijW77MIgCKgBGAs/m22/018%2BO%2BBom%2BDoutor%2B1%25C2%25AA%2BTemporada%2B2018.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 019 Oi
+https://1.bp.blogspot.com/-ECEmkBai_qo/XbqVJHLivGI/AAAAAAAAZ8M/gBBWZzhCaQM5Pwj0Jcr7HHGcHyN2fmriACKgBGAsYHg/m22/019%2BOl%25C3%25A1.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 020 Meio termo
+https://2.bp.blogspot.com/-sGElatRXFtc/XbqVJObmQbI/AAAAAAAAZ8M/fId4-AE6iUU7fOGdTTmvpXdDrq1D8GfogCKgBGAsYHg/m22/020%2BMeio%2Btermo.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 021 Trinta e seis horas
+https://2.bp.blogspot.com/-VJuisOTI0jc/XbqVJEguGTI/AAAAAAAAZ8M/w0sN8KibIWUishwabDZmcdNwujfqwYhKwCKgBGAsYHg/m22/021%2BTrinta%2Be%2Bseis%2Bhoras.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 022 Que peninha
+https://3.bp.blogspot.com/-uuacHm7wFlI/XbqVJOjbwdI/AAAAAAAAZ8M/S2A3E0vxaNoEP54bcYDwjDcnnXo0dTrPgCKgBGAsYHg/m22/022%2BTitmouse%2Bresistente.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 023 Cenouras
+https://2.bp.blogspot.com/-A8z95A6FPWM/XbqVJHYDAdI/AAAAAAAAZ8M/AWXe4oOT8twWEUdh-0HJyXspJZQWVVpFwCKgBGAsYHg/m22/023%2BCenouras.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 024 Ficar ou não ficar
+https://1.bp.blogspot.com/-5vMjhLMoeXg/XbqVJBDbe-I/AAAAAAAAZ8M/afPlQchljtMv52cTrlD_4KyUtrjHiNfoQCKgBGAsYHg/m22/024%2BDuas%2Bcamadas%2Bou%2Bn%25C3%25A3o%2Bduas%2Bcamadas.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 025 Hubert
+https://1.bp.blogspot.com/-aIvm9kovdGc/XbqVJMp3euI/AAAAAAAAZ8M/Y66SdeDspDoSIKtQopUrOsaYxRZ-5AxmQCKgBGAsYHg/m22/025%2BHubert.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 026 Histórias
+https://1.bp.blogspot.com/-SFEAaGSZpck/XbqVJCHGudI/AAAAAAAAZ8M/_b9Oyjqg-VUxzSP4rd7aLsqi0wk7FW_JACKgBGAsYHg/m22/026%2BHist%25C3%25B3rias.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 027 Empatia
+https://4.bp.blogspot.com/-lR2Hun24TEg/XbqVJIId0MI/AAAAAAAAZ8M/UHmHFuklzIIrmy8RhA8NZO7TMGLRw8MfACKgBGAsYHg/m22/027%2BEmpatia.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 028 Quarentena
+https://3.bp.blogspot.com/-bLIJKnpRLdg/XbqVJPK7cLI/AAAAAAAAZ8M/SWqf52V_pTgZlUUvf9EZUNmBSWrNHnXbwCKgBGAsYHg/m22/028%2BQuarentena.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 029 Quarentena parte dois
+https://4.bp.blogspot.com/-YRJmRcn4ld8/XbqVJDdRKfI/AAAAAAAAZ8M/SOEOKwi2-rksEh_R-YoCdIMXwLu0jviNACKgBGAsYHg/m22/029%2BQuarentena%2Bparte%2Bdois.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 030 Repercussões
+https://1.bp.blogspot.com/-bxAw1c4F3Mo/XbqVJP5Z7DI/AAAAAAAAZ8M/ZL-B1w1tAHwhLx8Jt9O2tKMO-xDygBJ5QCKgBGAsYHg/m22/030%2BConsequ%25C3%25AAncia.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 031 Xin
+https://1.bp.blogspot.com/-qfP-6_Q5rBs/XbqVJFtOzdI/AAAAAAAAZ8M/-VZCUvtSoLgRRiyVpVhQILjzCWWjxky1gCKgBGAsYHg/m22/031%2BXin.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 032 Rostos
+https://2.bp.blogspot.com/-aVyV7D-n3qc/XbqVJJn3lsI/AAAAAAAAZ8M/3nH5R3LhciIgX-AFzOKV4ub5hvGJv_N6QCKgBGAsYHg/m22/032%2BRostos.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 033 Risco e recompensa
+https://4.bp.blogspot.com/-QxJAdXg2NeQ/XbqVJLq7yHI/AAAAAAAAZ8M/9nvSOPj3_l0BiEkzy93RbLF2hQRlruvRQCKgBGAsYHg/m22/033%2BRisco%2Be%2Brecompensa.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 034 Acredite
+https://2.bp.blogspot.com/-5M1w_OemVhY/XbqVJKSDHqI/AAAAAAAAZ8M/hYMslJDhAqEQSzSmBUt21sK3ojof0Am-gCKgBGAsYHg/m22/034%2BAcreditam.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 035 Crise
+https://1.bp.blogspot.com/-NeX-nAkymDM/XbqVJLzgugI/AAAAAAAAZ8M/43VsySwDFGYcjjS81PnOMA4V1RrqjwKCQCKgBGAsYHg/m22/035%2BDemolir.mkv
+
+#EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 036 Trampolim
+https://1.bp.blogspot.com/-qajZpQIVxl4/XbqVJM_wiKI/AAAAAAAAZ8M/PNol-l6IqmEnFXVBYmdW_WnyAPlwRpPIgCKgBGAsYHg/m22/036%2BTrampolim.mkv
