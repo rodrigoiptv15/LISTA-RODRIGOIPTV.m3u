@@ -296,5 +296,5 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 
-#EXTINF:-1 group-title="CANAIS",Charlie
-https://youtu.be/39Wu_iXEG5k
+#EXTINF:-1 group-title="CANAIS",face
+https://www.facebook.com/videosderapoficial/videos/488071268734532/
