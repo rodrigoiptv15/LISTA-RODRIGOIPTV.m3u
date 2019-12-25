@@ -337,7 +337,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33648
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33647
 
 #EXTINF:-1 group-title="CANAIS",MAX UP
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33649
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33621
 
 #EXTINF:-1 group-title="CANAIS",BIS
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33562
@@ -369,7 +369,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33568
 #EXTINF:-1 group-title="CANAIS",CURTA!
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33569
 
-#EXTINF:-1 group-title="CANAIS",FOX 1
+#EXTINF:-1 group-title="CANAIS",FOX
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33636
 
 #EXTINF:-1 group-title="CANAIS",FOX LIFE
@@ -382,7 +382,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33638
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33639
 
 #EXTINF:-1 group-title="CANAIS",FX
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33642
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33793
 
 #EXTINF:-1 group-title="CANAIS",MAX PRIME
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33802
@@ -421,7 +421,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33669
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33672
 
 #EXTINF:-1 group-title="CANAIS",ANIMAL PLANET
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33162
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33586
 
 #EXTINF:-1 group-title="CANAIS",DISCOVERY CHANNEL
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33573
@@ -442,13 +442,13 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33021
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33582
 
 #EXTINF:-1 group-title="CANAIS",HISTORY CHANNEL
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32366
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32364
 
 #EXTINF:-1 group-title="CANAIS",HISTORY CHANNEL 2
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32755
 
 #EXTINF:-1 group-title="CANAIS",ID-INVESTIGAÇÃO DISCOVERY
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33644
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33808
 
 #EXTINF:-1 group-title="CANAIS",MAIS GLOBOSAT
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33646
@@ -465,7 +465,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33570
 #EXTINF:-1 group-title="CANAIS",CURTA!
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33807
 
-#EXTINF:-1 group-title="CANAIS",DISCOVERY HOME HEALTh 
+#EXTINF:-1 group-title="CANAIS",H&H
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33048
 
 #EXTINF:-1 group-title="CANAIS",E!
@@ -486,10 +486,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33671
 #EXTINF:-1 group-title="CANAIS",COMBATE
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33561
 
-#EXTINF:-1 group-title="CANAIS",DAZN
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33627
-
-#EXTINF:-1 group-title="CANAIS",ESPN 1
+#EXTINF:-1 group-title="CANAIS",ESPN
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32992
 
 #EXTINF:-1 group-title="CANAIS",ESPN 2
@@ -501,13 +498,13 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32983
 #EXTINF:-1 group-title="CANAIS",ESPN EXTRA
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33589
 
-#EXTINF:-1 group-title="CANAIS",FOX SPORTS 1
+#EXTINF:-1 group-title="CANAIS",FOX SPORTS
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33640
 
 #EXTINF:-1 group-title="CANAIS",FOX SPORTS 2
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32933
 
-#EXTINF:-1 group-title="CANAIS",SPORTV 1
+#EXTINF:-1 group-title="CANAIS",SPORTV
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32462
 
 #EXTINF:-1 group-title="CANAIS",SPORTV 2
@@ -520,7 +517,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32465
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33563
 
 #EXTINF:-1 group-title="CANAIS",CARTOON NETWORK
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33567
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33588
 
 #EXTINF:-1 group-title="CANAIS",DISCOVERY KIDS
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33041
@@ -532,7 +529,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33583
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33584
 
 #EXTINF:-1 group-title="CANAIS",DISNEY XD
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33572
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33812
 
 #EXTINF:-1 group-title="CANAIS",GLOOB
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33643
@@ -559,7 +556,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32592
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32584
 
 #EXTINF:-1 group-title="CANAIS",PREMIERE 4
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32576
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32574
 
 #EXTINF:-1 group-title="CANAIS",PREMIERE 5
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32568
