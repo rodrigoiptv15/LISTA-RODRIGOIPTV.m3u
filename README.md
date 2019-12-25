@@ -40,12 +40,6 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 #EXTINF:-1 group-title="FILMES ALICE",SING
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
 
-#EXTINF:-1 group-title="FILMES",OS ESPECIALISTAS
-https://video.wixstatic.com/video/3f69cf_c23f4b18021243959ecdb075b15bcc83/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="FILMES",Brinquedo assassino
-https://www1389.hlsmp4.com/token=V9Ykl3efsC4dH374Zlv_Fw/1577112771/187.84.0.0/78/9/2d/f7cc4d48fd3ddbf3174293d8acb042d9-720p.mp4
-
 #EXTINF:-1 group-title="Dois homens e meio",EP 01
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E01.mp4
 
@@ -330,7 +324,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32722
 #EXTINF:-1 group-title="CANAIS",HBO SIGNATURE
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32714
 
-#EXTINF:-1 group-title="CANAIS",MAX 1
+#EXTINF:-1 group-title="CANAIS",MAX
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33648
 
 #EXTINF:-1 group-title="CANAIS",MAX PRIME
