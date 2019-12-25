@@ -319,7 +319,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32377
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32747
 
 #EXTINF:-1 group-title="CANAIS",HBO 2
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32747
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32744
 
 #EXTINF:-1 group-title="CANAIS",HBO FAMILY
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32736
