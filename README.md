@@ -328,7 +328,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32736
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32722
 
 #EXTINF:-1 group-title="CANAIS",HBO SIGNATURE
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32722
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32714
 
 #EXTINF:-1 group-title="CANAIS",MAX 1
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33648
