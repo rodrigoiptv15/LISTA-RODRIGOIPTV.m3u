@@ -586,4 +586,4 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38853
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38855
 
 #EXTINF:-1 group-title="FILMES",Uma dobra no tempo
-https://cdn15.ntcdn.stream/prop/httpdelivery/filmes/p1/19092557uma-dobra-no-tempo-2018.mp4
+https://hgt5e3.vkcache.com/secip/0/F0nvFai11vfAlwP8QWFpxA/MTg3Ljg0LjMuMTY=/1577372400/hls-vod-s03/flv/api/files/videos/2019/07/19/1563511664mqjl4.mp4.m3u8
