@@ -442,7 +442,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32364
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32755
 
 #EXTINF:-1 group-title="CANAIS",ID-INVESTIGAÇÃO DISCOVERY
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33808
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33644
 
 #EXTINF:-1 group-title="CANAIS",MAIS GLOBOSAT
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33646
@@ -454,7 +454,7 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33652
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33653
 
 #EXTINF:-1 group-title="CANAIS",COMEDY CENTRAL
-http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33570
+http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33791
 
 #EXTINF:-1 group-title="CANAIS",CURTA!
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/33807
