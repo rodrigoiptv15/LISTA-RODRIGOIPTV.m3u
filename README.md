@@ -41,34 +41,34 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 01
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E01.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E01.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 02
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E02.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E02.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 03
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E3.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E03.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 04
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E04.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E04.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 05
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E05.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E05.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 06
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E06.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E06.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 07
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E07.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E07.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 08
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E08.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E08.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 09
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E09.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E09.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 10
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E10.mp4
+
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 11
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E11.mp4
