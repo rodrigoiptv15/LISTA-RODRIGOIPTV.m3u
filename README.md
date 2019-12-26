@@ -584,3 +584,6 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38853
 
 #EXTINF:-1 group-title="CANAIS",POCOYO PIRATA 24HRS
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38855
+
+#EXTINF:-1 group-title="FILMES",Uma dobra no tempo
+https://redirector.googlevideo.com/videoplayback?expire=1577336871&ei=ByQEXtuHEoy31gKegqPwDQ&ip=78.47.71.40&id=a943baba251b0771&itag=18&source=picasa&begin=0&requiressl=yes&mm=30&mn=sn-4g5e6nz7&ms=nxu&mv=u&mvi=2&pl=23&sc=yes&susc=ph&app=fife&mime=video/mp4&dur=6577.539&lmt=1576931565243189&mt=1577329077&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,dur,lmt&sig=ALgxI2wwRgIhALs4fjU5gcyuqNdVpMQaIOlfsIsueh9apCE0uf6TwO5zAiEA7shigDuh19lHKXmzysP-vwcvNufywcFxdbi6RYo234Q=&lsparams=mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgC1trJrSrOAs3C8Pj4hr-zLUjfMa5w53XRxESAPw5Uu8CIB1BHvuHPTQpr-nA410dNeT-5wCRf5NFgKZBqF-rAhiU
