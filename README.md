@@ -1,7 +1,6 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
 
@@ -588,3 +587,6 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38855
 
 #EXTINF:-1 group-title="FILMES",Uma dobra no tempo
 https://hgt5e3.vkcache.com/secip/0/F0nvFai11vfAlwP8QWFpxA/MTg3Ljg0LjMuMTY=/1577372400/hls-vod-s03/flv/api/files/videos/2019/07/19/1563511664mqjl4.mp4.m3u8
+
+#EXTINF:-1 group-title="YOUTUBE",IPTV
+https://youtu.be/pbwTZSHPs5k
