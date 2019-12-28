@@ -40,6 +40,12 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 #EXTINF:-1 group-title="FILMES ALICE",SING
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
 
+#EXTINF:-1 group-title="FILMES ALICE",VIVA LA VIDA
+http://viptv3.dyndns.tv:2086/movie/moises01/moises01/9587.MP4
+
+#EXTINF:-1 group-title="FILMES ALICE",Branca de neve
+http://viptv3.dyndns.tv:2086/movie/moises01/moises01/7835.MP4
+
 #EXTINF:-1 group-title="Dois homens e meio",EP 01
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E01.mp4
 
@@ -68,49 +74,47 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E08.mp4
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E09.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 10
-
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E10.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 11
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E11.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E11.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 12
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E12.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E12.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 13
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E13.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E13.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 14
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E14.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E14.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 15
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E15.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E15.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 16
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E16.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E16.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 17
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E17.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E17.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 18
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E18.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E18.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 19
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E19.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E19.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 20
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E20.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E20.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 21
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E21.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E21.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 22
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E22.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E22.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 23
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E23.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E23.mp4
 
-#EXTINF:-1 group-title="Dois homens e meio",EP 24
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S09/S09E24.mp4
 
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="CANAIS", Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
@@ -124,35 +128,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.in
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="CANAIS", RADIO 105 TV SD ITALIA
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 01
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E01.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 02
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E02.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 03
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E03.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 04
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E04.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 05
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E05.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 06
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E06.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 07
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E08.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 08
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E08.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 09
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E09.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX 2",EP 10
-http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S02/S02E10.mp4
 
 #EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 1ª Temporada 016 Dor
 https://4.bp.blogspot.com/-fg_zs4FhB24/XIoE5-UpccI/AAAAAAAACbo/AnqSjj7IhMgqpM89b8hb3cybghsaUVWDgCKgBGAs/m22/016%2BO%2BBom%2BDoutor%2B1%25C2%25AA%2BTemporada%2B2018.mkv
@@ -217,47 +192,6 @@ https://1.bp.blogspot.com/-NeX-nAkymDM/XbqVJLzgugI/AAAAAAAAZ8M/43VsySwDFGYcjjS81
 #EXTINF:-1 tvg-logo="https://shsthetribe.com/wp-content/uploads/2018/10/image.png" group-title="The Good Doctor 2017-2020", The Good Doctor 2ª Temporada 036 Trampolim
 https://1.bp.blogspot.com/-qajZpQIVxl4/XbqVJM_wiKI/AAAAAAAAZ8M/PNol-l6IqmEnFXVBYmdW_WnyAPlwRpPIgCKgBGAsYHg/m22/036%2BTrampolim.mkv
 
-#EXTINF:-1 group-title="O RESIDENTE",EP 01
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E01.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 02
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E02.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 03
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E03.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 04
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E04.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 05
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E05.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 06
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E06.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 07
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E07.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 08
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E08.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 09
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E09.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 10
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E10.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 11
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E11.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 12
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E12.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 13
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E13.mp4
-
-#EXTINF:-1 group-title="O RESIDENTE",EP 14
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E14.mp4
 
 #EXTINF:-1 group-title="WestWorld",EP 01
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E01.mp4
@@ -289,7 +223,11 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 #EXTINF:-1 group-title="WestWorld",EP 10
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
+#EXTINF:-1 group-title="CANAIS",Rádio montecarlo
+http://wow01.105.net/live/rmc1/playlist.m3u8
 
+#EXTINF:-1 group-title="CANAIS",portalfoxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/32397
@@ -584,9 +522,3 @@ http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38853
 
 #EXTINF:-1 group-title="CANAIS",POCOYO PIRATA 24HRS
 http://sv1.nowiptv.net:8880/suzzy/suzzy2019/38855
-
-#EXTINF:-1 group-title="FILMES",Uma dobra no tempo
-https://hgt5e3.vkcache.com/secip/0/F0nvFai11vfAlwP8QWFpxA/MTg3Ljg0LjMuMTY=/1577372400/hls-vod-s03/flv/api/files/videos/2019/07/19/1563511664mqjl4.mp4.m3u8
-
-#EXTINF:-1 group-title="YOUTUBE",IPTV
-https://youtu.be/pbwTZSHPs5k
