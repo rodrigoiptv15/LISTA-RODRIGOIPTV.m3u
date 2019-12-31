@@ -76,9 +76,6 @@ http://nrs1.azureedge.net/movies/cegonhas-dub-720p.mp4
 #EXTINF:-1 group-title="FILMES ALICE",Pets
 http://nrs1.azureedge.net/movies/pets-dub-720p.mp4
 
-#EXTINF:-1 group-title="FILMES ALICE",Branca de neve
-http://viptv3.dyndns.tv:2086/movie/moises01/moises01/7835.MP4
-
 
 #######################
 
@@ -606,6 +603,34 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP06.mp4?att
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
 https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP07.mp4?attachment=true
+
+
+#########################
+
+
+#EXTINF:-1 group-title="THE BOYS",EP 01
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 02
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 03
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 04
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 05
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP05.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 06
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP06.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 07
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP07.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BOYS",EP 08
+https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP08.mp4?attachment=true
 
 
 #########################
