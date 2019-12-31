@@ -432,51 +432,6 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
 #########################
 
 
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 1",EP 14
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S01/Maquina.Mortifera.2017.S01E14.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 1",EP 15
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S01/Maquina.Mortifera.2017.S01E15.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 1",EP 16
-
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 1",EP 17
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S01/Maquina.Mortifera.2017.S01E17.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 1",EP 18
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S01/Maquina.Mortifera.2017.S01E18.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 01
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E01.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 02
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E02.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 03
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E03.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 04
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E04.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 05
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E05.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 06
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E06.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 07
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E07.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 08
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E08.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 09
-
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 10
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E10.mp4
-
 #EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 11
 http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E11.mp4
 
@@ -516,4 +471,25 @@ http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S
 
 #########################
 
+
+#EXTINF:-1 group-title="THE BLACK LIST",EP 01
+https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/THEBLCKLSTT07EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BLACK LIST",EP 02
+https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/THEBLCKLSTT07EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BLACK LIST",EP 03
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BLACK LIST",EP 04
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="THE BLACK LIST",EP 05
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP05.mp4?attachment=true
+
+
+#########################
+
+
+#EXTINF:-1 group-title="THE ",EP 
 
