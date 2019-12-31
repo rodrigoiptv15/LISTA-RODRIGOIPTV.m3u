@@ -571,3 +571,56 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP13.mp4?attac
 #########################
 
 
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 01
+https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 02
+https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 03
+https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 04
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 05
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 06
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 07
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4?attachment=true
+
+#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 08
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4?attachment=true
+
+
+#########################
+
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 01
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 02
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 03
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 04
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP05.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP06.mp4?attachment=true
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP07.mp4?attachment=true
+
+
+#########################
+
+
