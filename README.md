@@ -303,19 +303,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 #########################
 
 
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 102
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP102.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 103
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP103.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 104
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP104.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 105
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP105.mp4?attachment=true
-
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 106
 https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP106.mp4?attachment=true
 
@@ -326,40 +313,40 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP107.mp4?attachm
 https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP108.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 109
-http://cdn2.neoseries.live/data/1760/s01e109-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP109.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 110
-http://cdn2.neoseries.live/data/1760/s01e110-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP110.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 111
-http://cdn2.neoseries.live/data/1760/s01e111-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP111.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 112
-http://cdn2.neoseries.live/data/1760/s01e112-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP112.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 113
-http://cdn2.neoseries.live/data/1760/s01e113-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP113.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 114
-http://cdn2.neoseries.live/data/1760/s01e114-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP114.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 115
-http://cdn2.neoseries.live/data/1760/s01e115-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP115.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 116
-http://cdn2.neoseries.live/data/1760/s01e116-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP116.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 117
-http://cdn2.neoseries.live/data/1760/s01e117-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP117.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 118
-http://cdn2.neoseries.live/data/1760/s01e118-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP118.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 119
-http://cdn2.neoseries.live/data/1760/s01e119-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP119.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 120
-http://cdn2.neoseries.live/data/1760/s01e120-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP120.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 121
 http://cdn2.neoseries.live/data/1760/s01e121-dub-720p.mp4
