@@ -491,5 +491,36 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP05.mp4?
 #########################
 
 
-#EXTINF:-1 group-title="THE ",EP 
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 01
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 03
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 04
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 05
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP05.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 06
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP06.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 07
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP07.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 08
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP08.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 09
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP09.mp4?attachment=true
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 10
+https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP10.mp4?attachment=true
+
+
+#########################
 
