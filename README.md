@@ -703,3 +703,11 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attach
 #########################
 
 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 01
+https://p2p.playseries.online:443/drive//hls/743682569f0bff771183de59b999d127/743682569f0bff771183de59b999d127.m3u8
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
