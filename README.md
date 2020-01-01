@@ -1,5 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+#EXTINF:-1 group-title="FILMES ALICE",A pequena sereia
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/APQNSRAFILME01.mp4?attachment=true
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
@@ -75,6 +77,7 @@ http://nrs1.azureedge.net/movies/cegonhas-dub-720p.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",Pets
 http://nrs1.azureedge.net/movies/pets-dub-720p.mp4
+
 
 
 #######################
@@ -382,6 +385,9 @@ http://cdn2.neoseries.live/data/1760/s01e131-dub-720p.mp4
 #########################
 
 
+#EXTINF:-1 group-title="FILMES",INVASÃO NOTURNA
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/INVSONTRNA.mp4?attachment=true
+
 #EXTINF:-1 group-title="FILMES",Segundos.para.Vencer
 http://samurai05.iapetus.feralhosting.com/Lancamentos/10.Segundos.para.Vencer.2019.mp4
 
@@ -411,6 +417,45 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos2/A.Casa.do.Medo.Incidente.
 
 #EXTINF:-1 group-title="FILMES",O.Manicomio
 http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
+
+#EXTINF:-1 group-title="FILMES",VINGANÇA A SANGUE FRIO
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/VNGCASNGFRIO.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",LEGALIDADE (BRASILEIRO)
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/LGLDAD.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",CENTRO DE TRAUMA (Bruce)
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",O IRLANDÊS
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/OIRLNDS.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",A INVASÃO DOS FRANCOS
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",Wolf  (guerra)
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/WLF.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",MALIGNO
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/MLGNO.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",CINDERELA POP
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/CNDRLAPOP.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",O MENINO QUE QUERIA SER REI
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/OMENOQQSREI.mp4?attachment=true
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
 
 
 #########################
@@ -631,6 +676,28 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP07.mp4?atta
 
 #EXTINF:-1 group-title="THE BOYS",EP 08
 https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP08.mp4?attachment=true
+
+
+#########################
+
+
+#EXTINF:-1 group-title="Fleabag",EP 01
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP01.mp4?attachment=true
+
+#EXTINF:-1 group-title="Fleabag",EP 02
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP02.mp4?attachment=true
+
+#EXTINF:-1 group-title="Fleabag",EP 03
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP03.mp4?attachment=true
+
+#EXTINF:-1 group-title="Fleabag",EP 04
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP04.mp4?attachment=true
+
+#EXTINF:-1 group-title="Fleabag",EP 05
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP05.mp4?attachment=true
+
+#EXTINF:-1 group-title="Fleabag",EP 06
+https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attachment=true
 
 
 #########################
