@@ -349,37 +349,37 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP119.mp4?attachm
 https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP120.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 121
-http://cdn2.neoseries.live/data/1760/s01e121-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP121.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 122
-http://cdn2.neoseries.live/data/1760/s01e122-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP122.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 123
-http://cdn2.neoseries.live/data/1760/s01e123-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP123.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 124
-http://cdn2.neoseries.live/data/1760/s01e124-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP124.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 125
-http://cdn2.neoseries.live/data/1760/s01e125-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP125.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 126
-http://cdn2.neoseries.live/data/1760/s01e126-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP126.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 127
-http://cdn2.neoseries.live/data/1760/s01e127-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP127.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 128
-http://cdn2.neoseries.live/data/1760/s01e128-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP128.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 129
-http://cdn2.neoseries.live/data/1760/s01e129-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP129.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 130
-http://cdn2.neoseries.live/data/1760/s01e130-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP130.mp4?attachment=true
 
 #EXTINF:-1 group-title="DRAGON BALL SUPER",EP 131
-http://cdn2.neoseries.live/data/1760/s01e131-dub-720p.mp4
+https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP131.mp4?attachment=true
 
 
 #########################
