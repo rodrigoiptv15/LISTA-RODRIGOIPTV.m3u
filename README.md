@@ -702,3 +702,6 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attach
 
 #########################
 
+
+#EXTINF:-1 group-title="FILMES DIEGO",FESTA DA SALSICHA
+https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/FSTDSLSCHA.mp4?attachment=true
