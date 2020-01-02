@@ -702,6 +702,3 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attach
 
 #########################
 
-
-#EXTINF:-1 group-title="ad",
-https://drive.google.com/uc?id=1CPBFVoDDBUxW93wHg-1JH_hNqsSAevRu&expert=download
