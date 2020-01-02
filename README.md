@@ -509,8 +509,17 @@ https://archive.org/download/e07_20200102/E08.mkv
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 09
 https://archive.org/download/e09_20200102/E09.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 10
+https://archive.org/download/e10_20200102/E10.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 11
+https://archive.org/download/e10_20200102/E11.mp4
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 12
+https://archive.org/download/e10_20200102/E12.mp4
+
+
+#########################
+
+
+
