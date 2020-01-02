@@ -710,31 +710,34 @@ https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/FSTDSLSCHA.mp4?attachm
 #########################
 
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 01
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 01
 https://archive.org/download/01_20200102/01.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 02
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 02
 https://archive.org/download/02_20200102_20200102/02.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 03
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 03
 https://archive.org/download/dfcexep03/DFCEX%20EP%2003.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 04
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 04
 https://archive.org/download/de.ferias.com.o.ex.brasil.ep04/De.F%C3%A9rias.Com.o.Ex.Brasil.ep%2004.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 05
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 05
+https://archive.org/download/deferiascomoexbrasile05/De%20F%C3%A9rias%20Com%20O%20Ex%20Brasil%20E05.mp4
 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 06
+https://archive.org/download/deferiascomoexbrasile06/De%20F%C3%A9rias%20Com%20O%20Ex%20Brasil%20E06.mp4
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 07
+https://archive.org/download/Celebis07/De.Ferias.Com.O.Ex.Brasil.E07.mp4
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 08
+https://archive.org/download/de.ferias.com.o.ex.brasil.celebs.s05e08.720p.webdl.h264comandotorrents/De.Ferias.Com.O.Ex.Brasil.Celebs.S05E08.720p.WEB-DL.H264-COMANDOTORRENTS.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
