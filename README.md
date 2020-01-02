@@ -1,7 +1,5 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-#EXTINF:-1 group-title="FILMES ALICE",A pequena sereia
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/APQNSRAFILME01.mp4?attachment=true
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
@@ -77,7 +75,6 @@ http://nrs1.azureedge.net/movies/cegonhas-dub-720p.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",Pets
 http://nrs1.azureedge.net/movies/pets-dub-720p.mp4
-
 
 
 #######################
@@ -303,91 +300,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 #########################
 
 
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 106
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP106.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 107
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP107.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 108
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/DBSPREP108.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 109
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP109.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 110
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP110.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 111
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP111.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 112
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP112.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 113
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP113.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 114
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP114.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 115
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP115.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 116
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP116.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 117
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP117.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 118
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP118.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 119
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP119.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 120
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP120.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 121
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP121.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 122
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP122.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 123
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP123.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 124
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP124.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 125
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP125.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 126
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP126.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 127
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP127.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 128
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP128.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 129
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP129.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 130
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP130.mp4?attachment=true
-
-#EXTINF:-1 group-title="DRAGON BALL SUPER",EP 131
-https://d1dfcekpj06jfh.cloudfront.net/RCServer06/ondemand/DBSPREP131.mp4?attachment=true
-
-
-#########################
-
-
-#EXTINF:-1 group-title="FILMES",INVASÃO NOTURNA
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/INVSONTRNA.mp4?attachment=true
-
 #EXTINF:-1 group-title="FILMES",Segundos.para.Vencer
 http://samurai05.iapetus.feralhosting.com/Lancamentos/10.Segundos.para.Vencer.2019.mp4
 
@@ -418,106 +330,22 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos2/A.Casa.do.Medo.Incidente.
 #EXTINF:-1 group-title="FILMES",O.Manicomio
 http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
 
-#EXTINF:-1 group-title="FILMES",VINGANÇA A SANGUE FRIO
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/VNGCASNGFRIO.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",LEGALIDADE (BRASILEIRO)
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/LGLDAD.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",CENTRO DE TRAUMA (Bruce)
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/CNTRDTRMA.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",O IRLANDÊS
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/OIRLNDS.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",A INVASÃO DOS FRANCOS
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",Wolf  (guerra)
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer1/ondemand/WLF.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",MALIGNO
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/MLGNO.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",CINDERELA POP
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/CNDRLAPOP.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",O MENINO QUE QUERIA SER REI
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer2/ondemand/OMENOQQSREI.mp4?attachment=true
-
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
-
-#EXTINF:-1 group-title="FILMES",
 
 
 #########################
 
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 11
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E11.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 12
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E12.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 13
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E13.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 14
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E14.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 15
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E15.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 16
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E16.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 17
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E17.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 18
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E18.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 19
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E19.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 20
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E20.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 21
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E21.mp4
-
-#EXTINF:-1 group-title="MÁQUINA MORTÍFERA 2",EP 22
-http://samurai.prometheus.feralhosting.com/Maquina.Mortifera/S02/Lethal.Weapon.S02E22.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 01
-https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/THEBLCKLSTT07EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 02
-https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/THEBLCKLSTT07EP02.mp4?attachment=true
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 03
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP03.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 04
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP04.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 05
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP05.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 06
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THEBLCKLSTT07EP06.mp4?attachment=true
+
 
 
 #########################
@@ -600,82 +428,26 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP13.mp4?attac
 #########################
 
 
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 01
-https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 02
-https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 03
-https://d1dfcekpj06jfh.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 04
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 05
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 06
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 07
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4?attachment=true
-
-#EXTINF:-1 group-title="O Mandaloriano: Star Wars",EP 08
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4?attachment=true
-
-
-#########################
-
-
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 01
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP01.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 02
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP02.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 03
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP03.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 04
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP04.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP05.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP06.mp4?attachment=true
+
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/MCHDBRNT04EP07.mp4?attachment=true
 
-
-#########################
-
-
-#EXTINF:-1 group-title="THE BOYS",EP 01
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 02
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP02.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 03
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP03.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 04
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP04.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 05
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP05.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 06
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP06.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 07
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP07.mp4?attachment=true
-
-#EXTINF:-1 group-title="THE BOYS",EP 08
-https://d1dfcekpj06jfh.cloudfront.net/RCServer04/ondemand/THEBOST01EP08.mp4?attachment=true
 
 
 #########################
@@ -729,12 +501,13 @@ https://archive.org/download/deferiascomoexbrasile05/De%20F%C3%A9rias%20Com%20O%
 https://archive.org/download/deferiascomoexbrasile06/De%20F%C3%A9rias%20Com%20O%20Ex%20Brasil%20E06.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 07
-https://archive.org/download/Celebis07/De.Ferias.Com.O.Ex.Brasil.E07.mp4
+https://archive.org/download/e07_20200102/E07.mkv
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 08
-https://archive.org/download/20191101152008/20191101_152008.mp4
+https://archive.org/download/e07_20200102/E08.mkv
 
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 09
+https://archive.org/download/e09_20200102/E09.mkv
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
 
