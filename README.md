@@ -705,3 +705,36 @@ https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attach
 
 #EXTINF:-1 group-title="FILMES DIEGO",FESTA DA SALSICHA
 https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/FSTDSLSCHA.mp4?attachment=true
+
+
+#########################
+
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 01
+https://archive.org/download/01_20200102/01.mkv
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 02
+https://archive.org/download/02_20200102_20200102/02.mkv
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 03
+https://archive.org/download/dfcexep03/DFCEX%20EP%2003.mkv
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 04
+https://archive.org/download/de.ferias.com.o.ex.brasil.ep04/De.F%C3%A9rias.Com.o.Ex.Brasil.ep%2004.mkv
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 05
+
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
+
+#EXTINF:-1 group-title="DE FÉRIAS COM O EX",EP 
