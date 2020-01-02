@@ -732,7 +732,7 @@ https://archive.org/download/deferiascomoexbrasile06/De%20F%C3%A9rias%20Com%20O%
 https://archive.org/download/Celebis07/De.Ferias.Com.O.Ex.Brasil.E07.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 08
-https://archive.org/download/de.ferias.com.o.ex.brasil.celebs.s05e08.720p.webdl.h264comandotorrents/De.Ferias.Com.O.Ex.Brasil.Celebs.S05E08.720p.WEB-DL.H264-COMANDOTORRENTS.mkv
+https://archive.org/download/20191101152008/20191101_152008.mp4
 
 #EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 
 
