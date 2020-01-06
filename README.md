@@ -81,73 +81,70 @@ http://nrs1.azureedge.net/movies/pets-dub-720p.mp4
 
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 01
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E01.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E01.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 02
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E02.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E02.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 03
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E03.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E03.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 04
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E04.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E04.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 05
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E05.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E05.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 06
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E06.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E06.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 07
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E07.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E07.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 08
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E08.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E08.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 09
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E09.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E09.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 10
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E10.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E10.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 11
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E11.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E11.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 12
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E12.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E12.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 13
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E13.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E13.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 14
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E14.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E14.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 15
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E15.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E15.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 16
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E16.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E16.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 17
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E17.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E17.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 18
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E18.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E18.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 19
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E19.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E19.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 20
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E20.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E20.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 21
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E21.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E21.mp4
 
 #EXTINF:-1 group-title="Dois homens e meio",EP 22
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E22.mp4
-
-#EXTINF:-1 group-title="Dois homens e meio",EP 23
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S10/S10E23.mp4
+http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E22.mp4
 
 
 #######################
@@ -344,85 +341,7 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
 #EXTINF:-1 group-title="THE BLACK LIST",EP 05
 
 
-#EXTINF:-1 group-title="THE BLACK LIST",EP 06
-
-
-
-#########################
-
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 01
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP02.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 03
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP03.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 04
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP04.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 05
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP05.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 06
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP06.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 07
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP07.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 08
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP08.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 09
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP09.mp4?attachment=true
-
-#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 10
-https://d15o6u7ncw63ky.cloudfront.net/RCServer08/ondemand/THPRGT01EP10.mp4?attachment=true
-
-
-#########################
-
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 01
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 02
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP02.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 03
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP03.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 04
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP04.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 05
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP05.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 06
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP06.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 07
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP07.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 08
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP08.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 09
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP09.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 10
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP10.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 11
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP11.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 12
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP12.mp4?attachment=true
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 13
-https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP13.mp4?attachment=true
+#EXTINF:-1 group-title="THE BLACK LIST",EP 
 
 
 #########################
@@ -448,35 +367,6 @@ https://d15o6u7ncw63ky.cloudfront.net/RCServer09/ondemand/ONEGCT01EP13.mp4?attac
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
 
-
-
-#########################
-
-
-#EXTINF:-1 group-title="Fleabag",EP 01
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP01.mp4?attachment=true
-
-#EXTINF:-1 group-title="Fleabag",EP 02
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP02.mp4?attachment=true
-
-#EXTINF:-1 group-title="Fleabag",EP 03
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP03.mp4?attachment=true
-
-#EXTINF:-1 group-title="Fleabag",EP 04
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP04.mp4?attachment=true
-
-#EXTINF:-1 group-title="Fleabag",EP 05
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP05.mp4?attachment=true
-
-#EXTINF:-1 group-title="Fleabag",EP 06
-https://d1dfcekpj06jfh.cloudfront.net/RCServer03/ondemand/FLBGT01EP06.mp4?attachment=true
-
-
-#########################
-
-
-#EXTINF:-1 group-title="FILMES DIEGO",FESTA DA SALSICHA
-https://d15o6u7ncw63ky.cloudfront.net/RCFServer3/ondemand/FSTDSLSCHA.mp4?attachment=true
 
 
 #########################
