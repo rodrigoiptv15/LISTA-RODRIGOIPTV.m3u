@@ -609,3 +609,19 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
 
 
 #########################
+
+
+#EXTINF:-1 group-title="CANAIS AD",PLAYBOY
+http://198.255.23.18:2095/streams/215_.m3u8
+
+#EXTINF:-1 group-title="CANAIS AD",SEXTREME
+http://198.255.23.18:2095/streams/216_.m3u8
+
+#EXTINF:-1 group-title="CANAIS AD",SEXYHOT
+http://198.255.23.18:2095/streams/217_.m3u8
+
+#EXTINF:-1 group-title="CANAIS AD",VENUS
+http://198.255.23.18:2095/streams/218_.m3u8
+
+
+#########################
