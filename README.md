@@ -333,15 +333,16 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
 
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 03
-
+https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E03.mp4
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 04
-
+https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E04.mp4
 
 #EXTINF:-1 group-title="THE BLACK LIST",EP 05
+https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E05.mp4
 
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 
+#EXTINF:-1 group-title="THE BLACK LIST",EP 06
+https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E06.mp4
 
 
 #########################
