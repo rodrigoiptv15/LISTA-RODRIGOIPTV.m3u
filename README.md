@@ -150,6 +150,118 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E22.mp4
 #######################
 
 
+#EXTINF:-1 group-title="CANAIS",AXN
+http://198.255.23.18:2095/streams/181_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",CINEMAX
+http://198.255.23.18:2095/streams/183_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",FOX LIFE
+http://198.255.23.18:2095/streams/163_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",HBO
+http://198.255.23.18:2095/streams/186_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",HBO+
+http://198.255.23.18:2095/streams/189_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",LIFETIME
+http://198.255.23.18:2095/streams/169_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MAX
+http://198.255.23.18:2095/streams/196_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MAX PRIME
+http://198.255.23.18:2095/streams/197_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MAX UP
+http://198.255.23.18:2095/streams/8_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MEGAPIX
+https://globolive.akamaized.net/d/c/x2800/s/hls-mpix24ha/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e&PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="CANAIS",PARAMOUNT CHANNEL
+http://198.255.23.18:2095/streams/9_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",SPACE
+http://198.255.23.18:2095/streams/200_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TBS
+http://198.255.23.18:2095/streams/175_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TCM
+http://198.255.23.18:2095/streams/201_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
+http://198.255.23.18:2095/streams/211_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TELECINE ACTION
+http://198.255.23.18:2095/streams/214_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TELECINE FUN
+http://198.255.23.18:2095/streams/206_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TELECINE PIPOCA
+http://198.255.23.18:2095/streams/207_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TELECINE PREMIUM
+http://198.255.23.18:2095/streams/209_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",TNT SÉRIES
+http://198.255.23.18:2095/streams/6_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",UNIVERSAL
+http://198.255.23.18:2095/streams/31_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",WARNER TV
+http://198.255.23.18:2095/streams/179_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISNEY CHANNEL
+http://198.255.23.18:2095/streams/129_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISNEY JUNIOR
+http://198.255.23.18:2095/streams/139_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",NETGEO KIDS
+http://198.255.23.18:2095/streams/117_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISNEY XD
+http://198.255.23.18:2095/streams/131_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISNEY KIDS
+http://198.255.23.18:2095/streams/138_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",CARTOON NETWORK
+http://198.255.23.18:2095/streams/128_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",COMBATE
+http://198.255.23.18:2095/streams/48_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",PREMIERE
+http://198.255.23.18:2095/streams/61_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",PREMIERE 2
+http://198.255.23.18:2095/streams/62_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",ANIMAL PLANET
+http://198.255.23.18:2095/streams/98_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISCOVERY CHANNEL
+http://198.255.23.18:2095/streams/102_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISCOVERY H&H
+http://198.255.23.18:2095/streams/100_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",DISCOVERY SCIENCE
+http://198.255.23.18:2095/streams/121_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",HISTORY CHANNEL
+http://198.255.23.18:2095/streams/115_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",ID
+http://198.255.23.18:2095/streams/116_.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/Retro-Music-webtvonlive-com.jpg" group-title="CANAIS", Retro Music Television Republica Tcheca
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
