@@ -480,19 +480,19 @@ https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E07.mp4
 https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E08.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 09
-
+https://archive.org/download/o.negocio.s01e09/O.Negocio.S01E09.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 10
-
+http://samuraihd.com.br:25461/series/natanael/nata2566/32543.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 11
-
+http://samuraihd.com.br:25461/series/natanael/nata2566/32544.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 12
-
+http://samuraihd.com.br:25461/series/natanael/nata2566/32545.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 13
-
+http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
 
 
 #########################
