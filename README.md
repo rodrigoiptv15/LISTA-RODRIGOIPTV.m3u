@@ -348,25 +348,28 @@ http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
 
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 01
-
+https://archive.org/download/me.chama.de.bruna.s04e01/Me.Chama.de.Bruna.S04E01.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 02
-
+https://archive.org/download/me.chama.de.bruna.s04e01/Me.Chama.de.Bruna.S04E02.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 03
-
+https://archive.org/download/rua.augusta.s01e08/Me.Chama.de.Bruna.S04E03.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 04
-
+https://archive.org/download/rua.augusta.s01e08/Me.Chama.de.Bruna.S04E04.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
-
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E05.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
-
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E06.mp4
 
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E07.mp4
 
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 08
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E08.mp4
 
 
 #########################
@@ -418,18 +421,78 @@ https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E01.mkv
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 02
 https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E02.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
+https://archive.org/download/rua.augusta.s01e03/Rua.Augusta.S01E03.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
+https://archive.org/download/rua.augusta.s01e04/Rua.Augusta.S01E04.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
+https://archive.org/download/rua.augusta.s01e05/Rua.Augusta.S01E05.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
+https://archive.org/download/rua.augusta.s01e06/Rua.Augusta.S01E06.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
+https://archive.org/download/rua.augusta.s01e07/Rua.Augusta.S01E07.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
+https://archive.org/download/rua.augusta.s01e08/Rua.Augusta.S01E08.mkv
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x09.mp4
 
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x10.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x11.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
+https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x12.mp4
+
+#########################
+
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 01
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 02
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 03
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 04
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 05
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 06
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 07
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 08
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 09
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 10
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 11
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 12
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 13
+
+
+
+#########################
