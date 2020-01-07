@@ -412,4 +412,24 @@ https://archive.org/download/e10_20200102/E12.mp4
 #########################
 
 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
+https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E01.mkv
 
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
+https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E02.mkv
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 
