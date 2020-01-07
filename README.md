@@ -456,28 +456,28 @@ https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x12
 
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 01
-
+https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E01.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 02
-
+https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E02.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 03
-
+https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E03.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 04
-
+https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E04.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 05
-
+https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E05.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 06
-
+https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E06.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 07
-
+https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E07.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 08
-
+https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E08.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 09
 
