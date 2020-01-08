@@ -630,3 +630,41 @@ http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/16%20-%20Enfrentando%20
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 04
 https://archive.org/download/me.chama.de.bruna.s04e04/Me.Chama.de.Bruna.S04E04.mp4
 
+
+#########################
+
+
+#EXTINF:-1 group-title="CELEBS",EP 01
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E01.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 02
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E02.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 03
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E03.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 04
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E04.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 05
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E05.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 06
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E06.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 07
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E07.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 08
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E08.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 09
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E09.mp4
+
+#EXTINF:-1 group-title="CELEBS",EP 10
+http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E10.mp4
+
+
+#########################
+
+
