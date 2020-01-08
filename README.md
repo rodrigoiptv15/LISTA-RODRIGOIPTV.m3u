@@ -409,203 +409,8 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 #########################
 
 
-#EXTINF:-1 group-title="FILMES",Segundos.para.Vencer
-http://samurai05.iapetus.feralhosting.com/Lancamentos/10.Segundos.para.Vencer.2019.mp4
-
-#EXTINF:-1 group-title="FILMES",15.Minutos.de.Guerra
-http://samurai05.iapetus.feralhosting.com/Lancamentos2/15.Minutos.de.Guerra.2019.mp4
-
-#EXTINF:-1 group-title="FILMES",Trem.para.Paris
-http://samurai05.iapetus.feralhosting.com/Lancamentos2/15h17.Trem.para.Paris.2018.mp4
-
-#EXTINF:-1 group-title="FILMES",O.Grande.Assalto
-http://samurai05.iapetus.feralhosting.com/Lancamentos2/211.O.Grande.Assalto.mp4
-
-#EXTINF:-1 group-title="FILMES",22.Milhas
-http://samurai05.iapetus.feralhosting.com/Lancamentos/22.Milhas.2018.mp4
-
-#EXTINF:-1 group-title="FILMES",4.LATAS
-http://samurai05.iapetus.feralhosting.com/Lancamentos/4.LATAS.2019.mp4
-
-#EXTINF:-1 group-title="FILMES",A.Caminho.da.Fe
-http://samurai05.iapetus.feralhosting.com/Lancamentos2/A.Caminho.da.Fe.mp4
-
-#EXTINF:-1 group-title="FILMES",A.Carga
-http://samurai05.iapetus.feralhosting.com/Lancamentos/A.Carga.2019.mp4
-
-#EXTINF:-1 group-title="FILMES",A.Casa.do.Medo.Incidente.em.Ghostland
-http://samurai05.iapetus.feralhosting.com/Lancamentos2/A.Casa.do.Medo.Incidente.em.Ghostland.2019.mp4
-
-#EXTINF:-1 group-title="FILMES",O.Manicomio
-http://samurai05.iapetus.feralhosting.com/Lancamentos/O.Manicomio.2019.mp4
-
-
-
-#########################
-
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 03
-https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E03.mp4
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 04
-https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E04.mp4
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 05
-https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E05.mp4
-
-#EXTINF:-1 group-title="THE BLACK LIST",EP 06
-https://archive.org/download/the.blacklist.s07e04/The.Blacklist.S07E06.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 01
-https://archive.org/download/me.chama.de.bruna.s04e01/Me.Chama.de.Bruna.S04E01.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 02
-https://archive.org/download/me.chama.de.bruna.s04e01/Me.Chama.de.Bruna.S04E02.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 03
-https://archive.org/download/rua.augusta.s01e08/Me.Chama.de.Bruna.S04E03.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 04
-https://archive.org/download/rua.augusta.s01e08/Me.Chama.de.Bruna.S04E04.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E05.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E06.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E07.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 08
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Me.Chama.de.Bruna.S04E08.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 01
-https://archive.org/download/01_20200102/01.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 02
-https://archive.org/download/02_20200102_20200102/02.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 03
-https://archive.org/download/dfcexep03/DFCEX%20EP%2003.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 04
-https://archive.org/download/de.ferias.com.o.ex.brasil.ep04/De.F%C3%A9rias.Com.o.Ex.Brasil.ep%2004.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 05
-https://archive.org/download/deferiascomoexbrasile05/De%20F%C3%A9rias%20Com%20O%20Ex%20Brasil%20E05.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 06
-https://archive.org/download/deferiascomoexbrasile06/De%20F%C3%A9rias%20Com%20O%20Ex%20Brasil%20E06.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 07
-https://archive.org/download/e07_20200102/E07.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 08
-https://archive.org/download/e07_20200102/E08.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 09
-https://archive.org/download/e09_20200102/E09.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 10
-https://archive.org/download/e10_20200102/E10.mkv
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 11
-https://archive.org/download/e10_20200102/E11.mp4
-
-#EXTINF:-1 group-title="DE FÉRIAS COM O EX CELEBS",EP 12
-https://archive.org/download/e10_20200102/E12.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
-https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E01.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
-https://archive.org/download/rua.augusta.s01e01/Rua.Augusta.S01E02.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
-https://archive.org/download/rua.augusta.s01e03/Rua.Augusta.S01E03.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
-https://archive.org/download/rua.augusta.s01e04/Rua.Augusta.S01E04.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
-https://archive.org/download/rua.augusta.s01e05/Rua.Augusta.S01E05.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
-https://archive.org/download/rua.augusta.s01e06/Rua.Augusta.S01E06.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
-https://archive.org/download/rua.augusta.s01e07/Rua.Augusta.S01E07.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
-https://archive.org/download/rua.augusta.s01e08/Rua.Augusta.S01E08.mkv
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x09.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x10.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x11.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
-https://archive.org/download/me.chama.de.bruna.s04e07_20200107/Rua.augusta.01x12.mp4
-
-#########################
-
-
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 01
-https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E01.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 02
-https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E02.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 03
-https://archive.org/download/o.negocio.s01e03/O.Negocio.S01E03.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 04
-https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E04.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 05
-https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E05.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 06
-https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E06.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 07
-https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E07.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 08
-https://archive.org/download/o.negocio.s01e05/O.Negocio.S01E08.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 09
-https://archive.org/download/o.negocio.s01e09/O.Negocio.S01E09.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32543.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32544.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32545.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 13
-http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
+#EXTINF:-1 group-title="FILMES",Apolo 11
+https://archive.org/download/ap0ll0.11/AP0LL0.11.mkv
 
 
 #########################
@@ -622,6 +427,32 @@ http://198.255.23.18:2095/streams/217_.m3u8
 
 #EXTINF:-1 group-title="CANAIS AD",VENUS
 http://198.255.23.18:2095/streams/218_.m3u8
+
+
+#########################
+
+
+
+
+#EXTINF:-1 group-title="DFCEX",01 De.Ferias.com.o.Ex.Brasil.S05E01.mp4 
+
+#EXTINF:-1 group-title="DFCEX",02 De.Ferias.com.o.Ex.Brasil.S05E02.mp4
+
+#EXTINF:-1 group-title="DFCEX",03 De.Ferias.com.o.Ex.Brasil.S05E03.mp4 
+
+#EXTINF:-1 group-title="DFCEX",04 De.Ferias.com.o.Ex.Brasil.S05E04.mp4 
+
+#EXTINF:-1 group-title="DFCEX",05 De.Ferias.com.o.Ex.Brasil.S05E05.mp4 
+
+#EXTINF:-1 group-title="DFCEX",06 De.Ferias.com.o.Ex.Brasil.S05E06.mp4  
+
+#EXTINF:-1 group-title="DFCEX",07 De.Ferias.com.o.Ex.Brasil.S05E07.mp4 
+
+#EXTINF:-1 group-title="DFCEX",08 De.Ferias.com.o.Ex.Brasil.S05E08.mp4 
+
+#EXTINF:-1 group-title="DFCEX",09 De.Ferias.com.o.Ex.Brasil.S05E09.mp4 
+
+#EXTINF:-1 group-title="DFCEX",10 De.Ferias.com.o.Ex.Brasil.S05E10.mp4 
 
 
 #########################
