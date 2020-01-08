@@ -432,27 +432,195 @@ http://198.255.23.18:2095/streams/218_.m3u8
 #########################
 
 
+#EXTINF:-1 group-title="FILMES",O manicômio
+https://barretos.net/looktvs/O%20Manic%c3%b4mio%20Dublado.mp4
 
 
-#EXTINF:-1 group-title="DFCEX",01 De.Ferias.com.o.Ex.Brasil.S05E01.mp4 
+#########################
 
-#EXTINF:-1 group-title="DFCEX",02 De.Ferias.com.o.Ex.Brasil.S05E02.mp4
 
-#EXTINF:-1 group-title="DFCEX",03 De.Ferias.com.o.Ex.Brasil.S05E03.mp4 
 
-#EXTINF:-1 group-title="DFCEX",04 De.Ferias.com.o.Ex.Brasil.S05E04.mp4 
 
-#EXTINF:-1 group-title="DFCEX",05 De.Ferias.com.o.Ex.Brasil.S05E05.mp4 
 
-#EXTINF:-1 group-title="DFCEX",06 De.Ferias.com.o.Ex.Brasil.S05E06.mp4  
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x01-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/1%20-%20Piloto.mp4
 
-#EXTINF:-1 group-title="DFCEX",07 De.Ferias.com.o.Ex.Brasil.S05E07.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x02-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/2%20-%20Wendigo.mp4
 
-#EXTINF:-1 group-title="DFCEX",08 De.Ferias.com.o.Ex.Brasil.S05E08.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x03-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/3%20-%20A%20Morte%20na%20%c3%81gua.mp4
 
-#EXTINF:-1 group-title="DFCEX",09 De.Ferias.com.o.Ex.Brasil.S05E09.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x04-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/4%20-%20Viajante%20Fantasma.mp4
 
-#EXTINF:-1 group-title="DFCEX",10 De.Ferias.com.o.Ex.Brasil.S05E10.mp4 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x05-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/5%20-%20Bloody%20Mary.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x06-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/6%20-%20Pele.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x07-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/7%20-%20Homem-Gancho.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x08-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/8%20-%20Insetos.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x09-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/9%20-%20Volta%20ao%20Lar.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x10-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/10%20-%20Asilo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x11-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/11%20-%20Espantalho.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x12-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/12%20-%20F%c3%a9.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x13-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/13%20-%20Rota%20666.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x14-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/14%20-%20Pesadelo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x15-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/15%20-%20A%20Fam%c3%adlia%20Bender.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x16-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/16%20-Sombra.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x17-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/17%20-%20Casa%20do%20Inferno.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x18-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/18%20-%20Alguma%20Coisa%20Maligna.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x19-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/19%20-Proced%c3%aancia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x20-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/20%20-%20O%20Sangue%20do%20Morto.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x21-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/21%20-%20Salva%c3%a7%c3%a3o.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x22-DUB Supernatural
+http://195.154.184.17/Sobrenatural%201%20Temporada/22%20-%20Armadilha%20do%20Diabo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x01-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/1%20-%20Na%20Hora%20da%20Minha%20Morte.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x02-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/2%20-%20Todos%20Amam%20Um%20Palha%c3%a7o.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x03-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/3%20-%20Sede%20de%20Sangue.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x04-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/4%20-%20Crian%c3%a7as%20N%c3%a3o%20Devem%20Brincar%20Com%20Coisas%20Mortas.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x05-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/5%20-%20Ele%20Disse.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x06-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/6%20-%20Sem%20Sa%c3%adda.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x07-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/7%20-%20Os%20Suspeitos%20Habituais.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x08-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/8%20-%20O%20Blues%20da%20Encruzilhada.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x09-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/9%20-%20Croatoan.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x10-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/10%20-%20Ca%c3%a7ado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x11-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/11%20-%20Brinquedos.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x12-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/12%20-%20Caminhante%20Noturno.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x13-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/13%20-%20Casas%20do%20Sagrado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x14-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/14%20-%20Nascido%20Num%20Signo%20Ruim.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x15-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/15%20-%20Exagerado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x16-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/16%20-%20O%20Fantasma%20da%20Estrada.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x17-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/17%20-%20Dolorosa%20Miss%c3%a3o.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x18-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/18%20-%20Assombra%c3%a7%c3%a3o%20em%20Hollywood.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x19-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/19%20-%20No%20Xadrez.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x20-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/20%20-%20Apenas%20um%20Sonho.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x21-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/21%20-%20Dem%c3%b4nios%20%c3%a0%20Solta%20-%201%c2%aa%20Parte.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X1Fjbn3.jpg" group-title="Supernatural DUB", 2x22-DUB Supernatural
+http://195.154.184.17/Sobrenatural%202%c2%aa%20temporada/22%20-%20Dem%c3%b4nios%20%c3%a0%20Solta%20-%202%c2%aa%20Parte.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x01-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/1%20-%20Os%20Sete%20Magn%c3%adficos.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x02-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/2%20-%20Tudo%20Bem%20Com%20As%20Crian%c3%a7as.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x03-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/3%20-%20Dia%20Ruim%20em%20Black%20Rock.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x04-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/4%20-%20Cidade%20do%20Pecado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x05-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/5%20-%20Hist%c3%b3rias%20Para%20Dormir.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x06-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/6%20-%20C%c3%a9u%20Vermelho.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x07-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/7%20-%20Sangue%20Fresco.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x08-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/8%20-%20Um%20Natal%20Muito%20Sobrenatural.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x09-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/9%20-%20Magia%20Negra.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x10-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/10%20-%20Sonhe%20Comigo.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x11-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/11%20-%20Local%20Misterioso.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x12-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/12%20-Terror%20na%20Delegacia.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x13-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/13%20-%20O%20Fantasma%20Bissexto.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x14-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/14%20-%20O%20Interurbano.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x15-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/15%20-%20O%20Tempo%20Est%c3%a1%20do%20Meu%20Lado.mp4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EkUjn4H.png" group-title="Supernatural DUB", 3x16-DUB Supernatural
+http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/16%20-%20Enfrentando%20o%20Capeta.mp4
 
 
 #########################
