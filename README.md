@@ -764,35 +764,63 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
 #########################
 
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 01
+#EXTINF:-1 group-title="DARK",EP 01
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E01.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 02
+#EXTINF:-1 group-title="DARK",EP 02
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E02.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 03
+#EXTINF:-1 group-title="DARK",EP 03
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E03.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 04
+#EXTINF:-1 group-title="DARK",EP 04
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E04.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 05
+#EXTINF:-1 group-title="DARK",EP 05
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E05.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 06
+#EXTINF:-1 group-title="DARK",EP 06
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E06.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 07
+#EXTINF:-1 group-title="DARK",EP 07
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E07.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 08
+#EXTINF:-1 group-title="DARK",EP 08
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E08.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 09
+#EXTINF:-1 group-title="DARK",EP 09
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E09.mp4
 
-#EXTINF:-1 group-title="O NEGÓCIO",EP 10
+#EXTINF:-1 group-title="DARK",EP 10
 http://samurai.morpheus.feralhosting.com/Dark/S01/CAP.S01E10.mp4
+
+
+#########################
+
+
+#EXTINF:-1 group-title="OZ",EP 01
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E01.mp4
+
+#EXTINF:-1 group-title="OZ",EP 02
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E02.mp4
+
+#EXTINF:-1 group-title="OZ",EP 03
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E03.mp4
+
+#EXTINF:-1 group-title="OZ",EP 04
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E04.mp4
+
+#EXTINF:-1 group-title="OZ",EP 05
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E05.mp4
+
+#EXTINF:-1 group-title="OZ",EP 06
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E06.mp4
+
+#EXTINF:-1 group-title="OZ",EP 07
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E07.mp4
+
+#EXTINF:-1 group-title="OZ",EP 08
+http://samurai.morpheus.feralhosting.com/OZ/S01/S01E08.mp4
 
 
 #########################
