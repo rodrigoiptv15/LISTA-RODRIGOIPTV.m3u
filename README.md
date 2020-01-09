@@ -150,6 +150,20 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S11/S11E22.mp4
 #######################
 
 
+#EXTINF:-1 group-title="CANAIS",SBT
+http://198.255.23.18:2095/streams/1_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",GLOBO
+http://198.255.23.18:2095/streams/2_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",
+
+#EXTINF:-1 group-title="CANAIS",
+
+#EXTINF:-1 group-title="CANAIS",
+
+#EXTINF:-1 group-title="CANAIS",
+
 #EXTINF:-1 group-title="CANAIS",AXN
 http://198.255.23.18:2095/streams/181_.m3u8
 
@@ -1025,34 +1039,3 @@ http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
 http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
 
 #########################
-
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/7867.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/7866.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/7865.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/7864.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/7863.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/7862.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/7861.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/7860.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/7859.mp4
-
-#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/7858.mp4
