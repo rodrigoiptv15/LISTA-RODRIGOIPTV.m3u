@@ -1039,3 +1039,76 @@ http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
 http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
 
 #########################
+
+
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 01
+https://archive.org/download/1atemporadaepisodio1newamsterdam/1%C2%AA%20Temporada%20-%20Epis%C3%B3dio%201%20-%20New%20Amsterdam.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 02
+https://archive.org/download/1atemporadaepisodio1newamsterdam/1%C2%AA%20Temporada%20-%20Epis%C3%B3dio%202%20-%20New%20Amsterdam.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 03
+https://archive.org/download/1atemporadaepisodio4newamsterdam/1%C2%AA%20Temporada%20-%20Epis%C3%B3dio%203%20-%20New%20Amsterdam.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 04
+https://archive.org/download/1atemporadaepisodio4newamsterdam/1%C2%AA%20Temporada%20-%20Epis%C3%B3dio%204%20-%20New%20Amsterdam.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 05
+https://archive.org/download/1atemporadaepisodio4newamsterdam/1%C2%AA%20Temporada%20-%20Epis%C3%B3dio%205%20-%20New%20Amsterdam.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 06
+https://archive.org/download/1atemporadaepisodio4newamsterdam/6.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 07
+https://archive.org/download/1atemporadaepisodio4newamsterdam/7.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 08
+https://archive.org/download/1atemporadaepisodio4newamsterdam/8.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 09
+https://archive.org/download/10_20200109_202001/9.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 10
+https://archive.org/download/10_20200109_202001/10.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 11
+https://archive.org/download/10_20200109_202001/11.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 12
+https://archive.org/download/10_20200109_202001/12.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 13
+https://archive.org/download/10_20200109_202001/13.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 14
+https://archive.org/download/10_20200109_202001/14.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 15
+https://archive.org/download/16_20200109_202001/15.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 16
+https://archive.org/download/16_20200109_202001/16.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 17
+https://archive.org/download/16_20200109_202001/17.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 18
+https://archive.org/download/16_20200109_202001/18.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 19
+https://archive.org/download/16_20200109_202001/19.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 20
+https://archive.org/download/16_20200109_202001/20.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 21
+https://archive.org/download/16_20200109_202001/21.mp4 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 22
+https://archive.org/download/16_20200109_202001/22.mp4 
+
+
+#########################
+
+
