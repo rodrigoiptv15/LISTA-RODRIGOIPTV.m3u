@@ -988,6 +988,38 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32657.mp4
 #########################
 
 
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 01
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E01.mp4
 
-#EXTINF:-1 group-title="teste hosp",
-https://www.fembed.com/v/nj7-kc2rx0m84n6
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 02
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E02.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 03
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E03.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 04
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E04.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 05
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E05.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 06
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E06.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 07
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E07.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 08
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E08.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 09
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E09.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 10
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E10.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 11
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
+
+#EXTINF:-1 group-title="ILHA DE FERRO",EP 12
+http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
