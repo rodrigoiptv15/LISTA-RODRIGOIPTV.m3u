@@ -725,28 +725,40 @@ https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.a
 http://samuraihd.com.br:25461/series/natanael/nata2566/32534.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32535.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32536.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32537.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32538.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32539.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32540.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32541.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32542.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32543.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32544.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 12
+http://samuraihd.com.br:25461/series/natanael/nata2566/32545.mp4
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 13
+http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
 
 
 #########################
