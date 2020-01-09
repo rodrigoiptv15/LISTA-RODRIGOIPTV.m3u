@@ -1023,3 +1023,36 @@ http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
 
 #EXTINF:-1 group-title="ILHA DE FERRO",EP 12
 http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/7867.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/7866.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/7865.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/7864.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/7863.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/7862.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/7861.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/7860.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/7859.mp4
+
+#EXTINF:-1 group-title="PERDIDOS NO ESPAÇO",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/7858.mp4
