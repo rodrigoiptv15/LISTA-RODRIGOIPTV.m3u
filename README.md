@@ -630,6 +630,18 @@ http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/16%20-%20Enfrentando%20
 #EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 04
 https://archive.org/download/me.chama.de.bruna.s04e04/Me.Chama.de.Bruna.S04E04.mp4
 
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 05
+https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E05.MP4.BaixarSeriesMP4.Org.mp4
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 06
+https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E06.MP4.BaixarSeriesMP4.Org.mp4
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 07
+https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E07.MP4.BaixarSeriesMP4.Org.mp4
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 08
+https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E08.MP4.BaixarSeriesMP4.Org.mp4
+
 
 #########################
 
@@ -668,3 +680,73 @@ http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Feri
 #########################
 
 
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x01.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x02.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x03.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x04.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x05.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
+https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x06.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x07.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x08.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x09.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x10.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x11.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
+https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x12.MP4.DUB.BaixarSeriesMP4.Com.mp4
+
+
+#########################
+
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32534.mp4
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 02
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 03
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 04
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 05
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 06
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 07
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 08
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 09
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 10
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 11
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 12
+
+#EXTINF:-1 group-title="O NEGÓCIO",EP 13
+
+
+#########################
