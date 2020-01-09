@@ -988,20 +988,6 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32657.mp4
 #########################
 
 
-#EXTINF:-1 group-title="canais teste",1
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1005.m3u8
 
-#EXTINF:-1 group-title="canais teste",2
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1006.m3u8
-
-#EXTINF:-1 group-title="canais teste",3
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1020.m3u8
-
-#EXTINF:-1 group-title="canais teste",4
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1023.m3u8
-
-#EXTINF:-1 group-title="canais teste",5
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1024.m3u8
-
-#EXTINF:-1 group-title="canais teste",6
-http://list.deeplist.nl/live/34hhsh74m60j0rfgvx58qn4gr/54p3uf8hruhskgjah75uta9ae/1015.m3u8
+#EXTINF:-1 group-title="teste hosp",
+https://www.fembed.com/v/nj7-kc2rx0m84n6
