@@ -824,3 +824,36 @@ http://samurai.morpheus.feralhosting.com/OZ/S01/S01E08.mp4
 
 
 #########################
+
+
+#EXTINF:-1 group-title="WestWorld",EP 01
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E01.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 02
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E02.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 03
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E03.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 04
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E04.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 05
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E05.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 06
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E06.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 07
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E07.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 08
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E08.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 09
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
+
+#EXTINF:-1 group-title="WestWorld",EP 10
+http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
+
+#########################
