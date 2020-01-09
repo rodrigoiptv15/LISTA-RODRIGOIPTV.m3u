@@ -857,3 +857,134 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 #########################
+
+
+#EXTINF:-1 group-title="THE BOYS",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/22705.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/22704.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/22703.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/22702.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/22701.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/22700.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/22699.mp4
+
+#EXTINF:-1 group-title="THE BOYS",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/22698.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32334.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32335.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32336.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32337.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32338.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32339.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32340.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32341.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32342.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32343.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32344.mp4
+
+#EXTINF:-1 group-title="CELEBS BOM",EP 12
+http://samuraihd.com.br:25461/series/natanael/nata2566/32345.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="WATCHMEN",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/30663.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/30664.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/30665.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/30666.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/30667.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/30668.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/30669.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/30670.mp4
+
+#EXTINF:-1 group-title="WATCHMEN",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/30671.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32648.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32649.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32650.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32651.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32652.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32653.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32654.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32655.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32656.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32657.mp4
+
+#########################
+
+
