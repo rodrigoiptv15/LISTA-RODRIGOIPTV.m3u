@@ -1,5 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+#EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
+http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
@@ -19,17 +21,6 @@ http://cdn3.top-filmes.xyz/data/FILMES/o-rei-do-show-2017-dub.mp4
 #EXTINF:-1 group-title="FILMES ALICE",A pequena sereia 2
 http://cdn1.neofilmes.live/data/FILMES/a-pequena-sereia-2-o-retorno-para-o-mar-2000-dub.mp4
 
-#EXTINF:-1 group-title="FILMES ALICE",Barbie super princesa 
-http://cdn1.neofilmes.live/data/FILMES/barbie-super-princesa-2015-dub.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",Barbie Escola de princesas
-http://cdn1.neofilmes.live/data/FILMES/barbie-escola-de-princesas-2011-leg.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",A princesa e o sapo
-http://cdn1.neofilmes.live/data/FILMES/a-princesa-e-o-sapo-2009-dub.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",Barbie Rapunzel
-http://cdn1.neofilmes.live/data/FILMES/barbie-como-rapunzel-2002-dub.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",meu malvado favorito 2
 http://samurai02.polybotes.feralhosting.com/Infantil/MEU.MALVADO.FAVORITO.2.mp4
@@ -43,9 +34,6 @@ http://samurai02.polybotes.feralhosting.com/Infantil/MEU.MALVADO.FAVORITO.mp4
 #EXTINF:-1 group-title="FILMES ALICE",Minions
 http://samurai02.polybotes.feralhosting.com/Infantil/MINIONS.mp4
 
-#EXTINF:-1 group-title="FILMES ALICE",Madagascar
-http://samurai02.polybotes.feralhosting.com/Infantil/Madagascar.1.mp4
-
 #EXTINF:-1 group-title="FILMES ALICE",olaf
 http://samurai02.polybotes.feralhosting.com/Infantil/OLAF.EM.UMA.NOVA.AVENTURA.CONGELANTE.mp4
 
@@ -58,23 +46,11 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PROCURANDO.O.NEMO.mp4
 #EXTINF:-1 group-title="FILMES ALICE",SING
 http://samurai02.polybotes.feralhosting.com/Infantil/SING.-.QUEM.CANTA.SEUS.MALES.ESPANTA.mp4
 
-#EXTINF:-1 group-title="FILMES ALICE",uma floresta muito louca
-http://nrs1.azureedge.net/movies/umaflorestamuitolouca-dub-720p.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",as aventuras de Tadeo 2
-http://nrs1.azureedge.net/movies/aventurasdetadeo2-dub-720p.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",Resgate da princesa
-http://nrs1.azureedge.net/movies/oresgatedaprincesa-dub-720p.mp4
-
 #EXTINF:-1 group-title="FILMES ALICE",VIVA LA VIDA
-http://nrs1.azureedge.net/movies/vivaavidaeumafesta-dub-720p.mp4
-
-#EXTINF:-1 group-title="FILMES ALICE",cegonhas
-http://nrs1.azureedge.net/movies/cegonhas-dub-720p.mp4
+http://samurai02.polybotes.feralhosting.com/Infantil/VIVA.A.VIDA.E.UMA.FESTA.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",Pets
-http://nrs1.azureedge.net/movies/pets-dub-720p.mp4
+http://samurai02.polybotes.feralhosting.com/Infantil/PETS.A.VIDA.SECRETA.DOS.BICHOS.mp4
 
 
 #######################
@@ -467,8 +443,6 @@ https://barretos.net/looktvs/O%20Manic%c3%b4mio%20Dublado.mp4
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WtBU4GD.jpg" group-title="Supernatural DUB", 1x01-DUB Supernatural
 http://195.154.184.17/Sobrenatural%201%20Temporada/1%20-%20Piloto.mp4
 
@@ -653,99 +627,6 @@ http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/16%20-%20Enfrentando%20
 #########################
 
 
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 04
-https://archive.org/download/me.chama.de.bruna.s04e04/Me.Chama.de.Bruna.S04E04.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 05
-https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E05.MP4.BaixarSeriesMP4.Org.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 06
-https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E06.MP4.BaixarSeriesMP4.Org.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 07
-https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E07.MP4.BaixarSeriesMP4.Org.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA 4",EP 08
-https://archive.org/download/me.chama.de.bruna.s04e05.mp4.baixarseriesmp4.org/Me.Chama.de.Bruna.S04E08.MP4.BaixarSeriesMP4.Org.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="CELEBS",EP 01
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E01.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 02
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E02.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 03
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E03.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 04
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E04.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 05
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E05.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 06
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E06.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 07
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E07.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 08
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E08.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 09
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E09.mp4
-
-#EXTINF:-1 group-title="CELEBS",EP 10
-http://46.4.10.77/Series/De%20Ferias%20Com%20Meu%20Ex-Brasil/5.Temporada/De.Ferias.com.o.Ex.Brasil.S05E10.mp4
-
-
-#########################
-
-
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x01.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x02.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x03.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x04.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x05.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
-https://archive.org/download/rua.augusta.01x05.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x06.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x07.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x08.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x09.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x10.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x11.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
-https://archive.org/download/rua.augusta.01x12.mp4.dub.baixarseriesmp4.com/Rua.augusta.01x12.MP4.DUB.BaixarSeriesMP4.Com.mp4
-
-
-#########################
 
 
 #EXTINF:-1 group-title="O NEGÓCIO",EP 01
@@ -1226,4 +1107,76 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32391.mp4
 
 
 #########################
+
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32658.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32659.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32660.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32661.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32662.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32663.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32664.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32665.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32666.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32667.mp4
+
+#EXTINF:-1 group-title="American Horror Story 7",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32668.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32669.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32670.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32671.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32672.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32673.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32674.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32675.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32676.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32677.mp4
+
+#EXTINF:-1 group-title="American Horror Story 8",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32678.mp4
+
+
+#########################
+
+
 
