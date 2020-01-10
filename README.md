@@ -1108,7 +1108,7 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 #########################
 
 
-#EXTINF:-1 group-title="YOUTUBE",TESTE
-https://youtu.be/XpGr8ELaC2g
+#EXTINF:-1 group-title="Hospedados",FROZEN 2
+https://www845.o0-2.com/token=m14_JxnbIEEUgsfjlYXZFQ/1578682404/187.84.0.0/85/e/f6/3bd6ee8db8cee6d76ce0563f3bfb1f6e-480p.mp4
 
 
