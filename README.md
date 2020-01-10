@@ -1108,8 +1108,122 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 #########################
 
 
-#EXTINF:-1 group-title="Hospedados",FROZEN 2
-https://www845.o0-2.com/token=m14_JxnbIEEUgsfjlYXZFQ/1578682404/187.84.0.0/85/e/f6/3bd6ee8db8cee6d76ce0563f3bfb1f6e-480p.mp4
+#EXTINF:-1 group-title="DEXTER",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32356.mp4
 
-#EXTINF:-1 group-title="Hospedados",MALÉVOLA
-https://fvs.io/redirector?token=OFpHWjg5V0FUN1liOGZjRVNkY253RmhWQXg1WjM1eXFob0dsOEZ6dkx3R010d0dXQ2NPTVJycHFMVWgrOTBrMGdkajdTcEdmZWhINElNRWZjdTRzMHl5V2RGZ2VNYmxvNlEwbkVvWDdiWXBhMVkxTjl6UDJQZ0U1OVV2Y21WWG40b1JldUF2c3VhQ2YxUWllbUJpbzJSUHlmaTdKby9UYUNBPT06Nkx3ZkFSL3l4V0hmRWgwRE5WT2dvQT09
+#EXTINF:-1 group-title="DEXTER",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32357.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32358.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32359.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32360.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32361.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32362.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32363.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32364.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32365.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32366.mp4
+
+#EXTINF:-1 group-title="DEXTER",EP 12
+http://samuraihd.com.br:25461/series/natanael/nata2566/32367.mp4
+
+
+#########################
+
+
+#EXTINF:-1 group-title="DEXTER 2",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32368.mp4
+
+
+#EXTINF:-1 group-title="DEXTER 2",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32369.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32370.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32371.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32372.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32373.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32374.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32375.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32376.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32377.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32378.mp4
+
+#EXTINF:-1 group-title="DEXTER 2",EP 12
+http://samuraihd.com.br:25461/series/natanael/nata2566/32379.mp4
+
+#########################
+
+
+#EXTINF:-1 group-title="DEXTER 3",EP 01
+http://samuraihd.com.br:25461/series/natanael/nata2566/32380.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 02
+http://samuraihd.com.br:25461/series/natanael/nata2566/32381.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 03
+http://samuraihd.com.br:25461/series/natanael/nata2566/32382.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 04
+http://samuraihd.com.br:25461/series/natanael/nata2566/32383.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 05
+http://samuraihd.com.br:25461/series/natanael/nata2566/32384.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 06
+http://samuraihd.com.br:25461/series/natanael/nata2566/32385.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 07
+http://samuraihd.com.br:25461/series/natanael/nata2566/32386.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 08
+http://samuraihd.com.br:25461/series/natanael/nata2566/32387.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 09
+http://samuraihd.com.br:25461/series/natanael/nata2566/32388.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 10
+http://samuraihd.com.br:25461/series/natanael/nata2566/32389.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 11
+http://samuraihd.com.br:25461/series/natanael/nata2566/32390.mp4
+
+#EXTINF:-1 group-title="DEXTER 3",EP 12
+http://samuraihd.com.br:25461/series/natanael/nata2566/32391.mp4
+
+
+#########################
+
