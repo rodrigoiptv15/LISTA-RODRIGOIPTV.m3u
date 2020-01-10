@@ -1109,4 +1109,4 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 
 
 #EXTINF:-1 group-title="MALÉVOLA",MALÉVOLA
-https://www842.o0-2.com/token=P6w4zMkJkmvji2pQgOI8ag/1578629345/187.84.0.0/96/e/81/e678d1498381cc6083c39d492388281e-1080p.mp4
+http://192.168.1.100:30001/file/iWvNvRC3/video.mp4
