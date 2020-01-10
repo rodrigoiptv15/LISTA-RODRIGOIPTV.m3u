@@ -1111,4 +1111,5 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 #EXTINF:-1 group-title="Hospedados",FROZEN 2
 https://www845.o0-2.com/token=m14_JxnbIEEUgsfjlYXZFQ/1578682404/187.84.0.0/85/e/f6/3bd6ee8db8cee6d76ce0563f3bfb1f6e-480p.mp4
 
-
+#EXTINF:-1 group-title="Hospedados",MALÉVOLA
+https://fvs.io/redirector?token=OFpHWjg5V0FUN1liOGZjRVNkY253RmhWQXg1WjM1eXFob0dsOEZ6dkx3R010d0dXQ2NPTVJycHFMVWgrOTBrMGdkajdTcEdmZWhINElNRWZjdTRzMHl5V2RGZ2VNYmxvNlEwbkVvWDdiWXBhMVkxTjl6UDJQZ0U1OVV2Y21WWG40b1JldUF2c3VhQ2YxUWllbUJpbzJSUHlmaTdKby9UYUNBPT06Nkx3ZkFSL3l4V0hmRWgwRE5WT2dvQT09
