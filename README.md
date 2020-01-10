@@ -1108,7 +1108,7 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 #########################
 
 
-#EXTINF:-1 group-title="HOSPEDADO",TESTE
-https://fvs.io/redirector?token=SHVQd010VEpGTGRRM2hMd0JyYjFPNXFXUi9OeUtPNEZud0lCSk1EQS9pSmhWVm9uZ2x0RVVBdy9BaFRoZXZaZ2FQbVZhOGM3R3JqdFVEOW8xOHF4NDd6SlpuZkwvMGI5OUNhY0N6d0hFczY1c0xGQ1g0R1BSbUpHYkY4NG0yRm5lV1E1ckk0d3VNNERoKzFlKzRnVm5UbFJqVWxhZEtaaHRnPT06cFBHRnFNalFDZXcySHRCUlNVN1lVUT09
+#EXTINF:-1 group-title="YOUTUBE",TESTE
+https://youtu.be/XpGr8ELaC2g
 
 
