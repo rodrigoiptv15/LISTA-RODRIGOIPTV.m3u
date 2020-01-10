@@ -156,7 +156,20 @@ http://198.255.23.18:2095/streams/1_.m3u8
 #EXTINF:-1 group-title="CANAIS",GLOBO
 http://198.255.23.18:2095/streams/2_.m3u8
 
-#EXTINF:-1 group-title="CANAIS",
+#EXTINF:-1 group-title="CANAIS",RECORD RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="CANAIS",RECORD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="CANAIS",MULTISHOW
+http://188.165.221.28:25461/live/O5PnAUJgPtE0YE/1UHbiLfL0nZU/1654.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MTV LIVE
+http://198.255.23.18:2095/streams/142_.m3u8
+
+#EXTINF:-1 group-title="CANAIS",MTV
+http://188.165.221.28:25461/live/O5PnAUJgPtE0YE/1UHbiLfL0nZU/1651.m3u8
 
 #EXTINF:-1 group-title="CANAIS",
 
