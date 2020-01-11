@@ -1221,3 +1221,17 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 
 
 #########################
+
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
+https://videos2.sendvid.com/49/c4/3jg1cpmq.mp4?validfrom=1578754476&validto=1578761676&rate=200k&burst=1000k&ip=187.84.2.209&hash=k99JzYWe6Zgdbculf300AZryIZA%3D
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
+https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755136&validto=1578762336&rate=200k&burst=1000k&ip=187.84.2.209&hash=9rg2ZzUoSzSOM67Gyh%2FGblj%2Fn48%3D
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
+https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755247&validto=1578762447&rate=200k&burst=1000k&ip=187.84.2.209&hash=NENXpuDbr4w6s%2BiUReFdog%2Bj6k0%3D
+
+
+
+#########################
