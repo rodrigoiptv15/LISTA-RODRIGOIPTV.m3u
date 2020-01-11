@@ -1236,3 +1236,11 @@ https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755247&validto=1578
 
 
 #########################
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 01
+https://bit.ly/2TdYAVP
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
+
+
