@@ -180,9 +180,6 @@ http://198.255.23.18:2095/streams/197_.m3u8
 #EXTINF:-1 group-title="CANAIS",MAX UP
 http://198.255.23.18:2095/streams/8_.m3u8
 
-#EXTINF:-1 group-title="CANAIS",MEGAPIX
-https://globolive.akamaized.net/d/c/x2800/s/hls-mpix24ha/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e&PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 group-title="CANAIS",PARAMOUNT CHANNEL
 http://198.255.23.18:2095/streams/9_.m3u8
 
@@ -270,9 +267,6 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1844566778.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="CANAIS", m2o TV 1
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-
-#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="CANAIS", m2o TV 2
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cf/Radio_105_Network.png" group-title="CANAIS", RADIO 105 TV SD ITALIA
 http://fms.105.net:1935/live/105Test1/chunklist_w289019678.m3u8
@@ -369,7 +363,9 @@ http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E17.mp4
 http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E18.mp4
 
 
+
 #########################
+
 
 
 #EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/_small.jpg" group-title="De Férias com o Ex", De Férias com o Ex S03 E01
@@ -412,12 +408,6 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 #########################
 
 
-#EXTINF:-1 group-title="FILMES",Apolo 11
-https://archive.org/download/ap0ll0.11/AP0LL0.11.mkv
-
-
-#########################
-
 
 #EXTINF:-1 group-title="CANAIS AD",PLAYBOY
 http://198.255.23.18:2095/streams/215_.m3u8
@@ -432,7 +422,9 @@ http://198.255.23.18:2095/streams/217_.m3u8
 http://198.255.23.18:2095/streams/218_.m3u8
 
 
+
 #########################
+
 
 
 #EXTINF:-1 group-title="FILMES",O manicômio
@@ -447,11 +439,18 @@ http://barretos.net/looktvs/10x10%20Dublado.mp4
 #EXTINF:-1 group-title="FILMES",Brightburn
 http://barretos.net/looktvs/Brightburn%20-%20Filho%20das%20Trevas%20Dublado.mp4
 
-#EXTINF:-1 group-title="FILMES",
+#EXTINF:-1 group-title="FILMES",MALÉVOLA
+https://xhymvfvjv.charles-howze.xyz/LSIp63p4DJx9WuhgR9DYD8njozxbOtXPozbPnlFUotxY7Sey6aOKLamK7I/0/V8qwWxsiO6oiXzroOfFQBM0hJxl9fQVourCLWprD9spUYqFdVfZJVfl3Y4on/a571a82a9f15f778daf408fe54381845.m3u8
 
-#EXTINF:-1 group-title="FILMES",
+#EXTINF:-1 group-title="FILMES",MALÉVOLA
+https://xhymvfvjv.charles-howze.xyz/LSIp63p4DJx9WuhgR9DYD8njozxbOtXPozbPnlFUotxY7Sey6aOKLamK7I/0/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",MALIGNO
+http://servidoresdedicado.net/looktvs/Maligno%20Dublado.mp4
+
+#EXTINF:-1 group-title="FILMES",211 O Grande Assalto
+http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
 
 #EXTINF:-1 group-title="FILMES",
 
@@ -1196,5 +1195,29 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32678.mp4
 #########################
 
 
-#EXTINF:-1 group-title="NOITE DE CRIME",EP 01
-http://192.168.1.100:30001/file/qt2gPgIm/video.mp4
+#EXTINF:-1 group-title="Truth be told",EP 01
+https://video.wixstatic.com/video/5b69e4_0d19434223f2467f88bec675e2764ed2/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 02
+https://video.wixstatic.com/video/5b69e4_bbdfa51b86674ad391e0de8b8ead8c07/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 03
+https://video.wixstatic.com/video/5b69e4_5cfb11ce7bcf4f98aa15a02d658ebe52/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 04
+https://video.wixstatic.com/video/f3f1b7_6eebddbd473e4d79a32d0494304b6eec/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 05
+https://video.wixstatic.com/video/f3f1b7_2d85bb3801a34250951f932e78e52ec4/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 06
+https://video.wixstatic.com/video/2d672e_59f93ccd00734c18a3997bd52041f9c1/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 07
+https://video.wixstatic.com/video/2d672e_285a88cc100448d1bc78f72c65ec2048/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Truth be told",EP 08
+https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/mp4/file.mp4
+
+
+#########################
