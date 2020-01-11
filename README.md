@@ -438,6 +438,23 @@ http://198.255.23.18:2095/streams/218_.m3u8
 #EXTINF:-1 group-title="FILMES",O manicômio
 https://barretos.net/looktvs/O%20Manic%c3%b4mio%20Dublado.mp4
 
+#EXTINF:-1 group-title="FILMES",CINDERELA POP
+http://barretos.net/looktvs/Cinderela%20Pop%20Dublado.mp4
+
+#EXTINF:-1 group-title="FILMES",10X10
+http://barretos.net/looktvs/10x10%20Dublado.mp4
+
+#EXTINF:-1 group-title="FILMES",Brightburn
+http://barretos.net/looktvs/Brightburn%20-%20Filho%20das%20Trevas%20Dublado.mp4
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
+#EXTINF:-1 group-title="FILMES",
+
 
 #########################
 
@@ -1179,4 +1196,5 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/32678.mp4
 #########################
 
 
-
+#EXTINF:-1 group-title="NOITE DE CRIME",EP 01
+http://192.168.1.100:30001/file/qt2gPgIm/video.mp4
