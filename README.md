@@ -452,7 +452,8 @@ http://servidoresdedicado.net/looktvs/Maligno%20Dublado.mp4
 #EXTINF:-1 group-title="FILMES",211 O Grande Assalto
 http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
 
-#EXTINF:-1 group-title="FILMES",
+#EXTINF:-1 group-title="FILMES",o menino que queria ser rei
+http://servidoresdedicado.net/looktvs/O%20Menino%20que%20Queria%20Ser%20Rei%20Dublado.mp4
 
 
 #########################
