@@ -1239,8 +1239,8 @@ https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755247&validto=1578
 
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 01
-https://bit.ly/2TdYAVP
+https://bit.ly/2NiMpDl
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
-https://jxjjxy-my.sharepoint.com/personal/rodrigofamilia1_t_odmail_cn/Documents/teste/EP%2001.mp4
+
 
