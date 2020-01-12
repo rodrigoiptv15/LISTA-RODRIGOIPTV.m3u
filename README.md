@@ -1,5 +1,8 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+#EXTINF:-1 group-title="FILMES ALICE"ABOMINÁVEL
+https://bit.ly/2QMWxXe
+
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
 
@@ -426,6 +429,8 @@ http://198.255.23.18:2095/streams/218_.m3u8
 #########################
 
 
+#EXTINF:-1 group-title="FILMES",211 O Grande Assalto
+http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
 
 #EXTINF:-1 group-title="FILMES",O manicômio
 https://barretos.net/looktvs/O%20Manic%c3%b4mio%20Dublado.mp4
@@ -766,46 +771,11 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/22699.mp4
 #EXTINF:-1 group-title="THE BOYS",EP 08
 http://samuraihd.com.br:25461/series/natanael/nata2566/22698.mp4
 
-#########################
 
 
-#EXTINF:-1 group-title="CELEBS BOM",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32334.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32335.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32336.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32337.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32338.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32339.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32340.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32341.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32342.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32343.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32344.mp4
-
-#EXTINF:-1 group-title="CELEBS BOM",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32345.mp4
 
 #########################
+
 
 
 #EXTINF:-1 group-title="WATCHMEN",EP 01
@@ -963,10 +933,3 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 
 #########################
 
-
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
-http://192.168.1.100:30001/file/G2ZqRmh3/video.mp4
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 08
-http://192.168.1.100:30001/file/Mq6YgDDk/video.mp4
