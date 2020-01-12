@@ -995,3 +995,48 @@ https://bit.ly/3a3tupN
 https://bit.ly/30dRq5x
 
 #########################
+
+
+
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
+https://bit.ly/35HYxV2
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
+https://bit.ly/2RbRdvB
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
+https://bit.ly/35OoL85
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
+https://bit.ly/2TfrJA8
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
+https://bit.ly/2FKEGK0
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
+https://bit.ly/2tTV7RW
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
+https://bit.ly/35KMHtl
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
+https://bit.ly/2FHDTK2
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
+https://bit.ly/2Tf6SNf
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
+https://bit.ly/2FFq7HE
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
+https://bit.ly/2TcTucm
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
+https://bit.ly/3a2InsL
+
+#########################
+
+
+
