@@ -641,52 +641,10 @@ http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/15%20-%20O%20Tempo%20Es
 http://195.154.184.17/Sobrenatural%203%c2%aa%20temporada/16%20-%20Enfrentando%20o%20Capeta.mp4
 
 
-#########################
-
-
-
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32534.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32535.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32536.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32537.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32538.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32539.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32540.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32541.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32542.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32543.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32544.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32545.mp4
-
-#EXTINF:-1 group-title="O NEGÓCIO",EP 13
-http://samuraihd.com.br:25461/series/natanael/nata2566/32546.mp4
 
 
 #########################
+
 
 
 #EXTINF:-1 group-title="DARK",EP 01
@@ -880,37 +838,6 @@ http://samuraihd.com.br:25461/series/natanael/nata2566/30671.mp4
 #########################
 
 
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32648.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32649.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32650.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32651.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32652.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32653.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32654.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32655.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32656.mp4
-
-#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32657.mp4
-
-#########################
 
 
 #EXTINF:-1 group-title="ILHA DE FERRO",EP 01
@@ -1003,195 +930,6 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 
 
 
-#########################
-
-
-#EXTINF:-1 group-title="DEXTER",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32356.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32357.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32358.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32359.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32360.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32361.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32362.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32363.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32364.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32365.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32366.mp4
-
-#EXTINF:-1 group-title="DEXTER",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32367.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="DEXTER 2",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32368.mp4
-
-
-#EXTINF:-1 group-title="DEXTER 2",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32369.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32370.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32371.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32372.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32373.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32374.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32375.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32376.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32377.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32378.mp4
-
-#EXTINF:-1 group-title="DEXTER 2",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32379.mp4
-
-#########################
-
-
-#EXTINF:-1 group-title="DEXTER 3",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32380.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32381.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32382.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32383.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32384.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32385.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32386.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32387.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32388.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32389.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32390.mp4
-
-#EXTINF:-1 group-title="DEXTER 3",EP 12
-http://samuraihd.com.br:25461/series/natanael/nata2566/32391.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32658.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32659.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32660.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32661.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32662.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32663.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32664.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32665.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32666.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32667.mp4
-
-#EXTINF:-1 group-title="American Horror Story 7",EP 11
-http://samuraihd.com.br:25461/series/natanael/nata2566/32668.mp4
-
-#########################
-
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/32669.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/32670.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/32671.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/32672.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/32673.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/32674.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/32675.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/32676.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/32677.mp4
-
-#EXTINF:-1 group-title="American Horror Story 8",EP 10
-http://samuraihd.com.br:25461/series/natanael/nata2566/32678.mp4
-
 
 #########################
 
@@ -1221,18 +959,6 @@ https://video.wixstatic.com/video/2d672e_285a88cc100448d1bc78f72c65ec2048/480p/m
 https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/mp4/file.mp4
 
 
-#########################
-
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 05
-https://videos2.sendvid.com/49/c4/3jg1cpmq.mp4?validfrom=1578754476&validto=1578761676&rate=200k&burst=1000k&ip=187.84.2.209&hash=k99JzYWe6Zgdbculf300AZryIZA%3D
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 06
-https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755136&validto=1578762336&rate=200k&burst=1000k&ip=187.84.2.209&hash=9rg2ZzUoSzSOM67Gyh%2FGblj%2Fn48%3D
-
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
-https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755247&validto=1578762447&rate=200k&burst=1000k&ip=187.84.2.209&hash=NENXpuDbr4w6s%2BiUReFdog%2Bj6k0%3D
-
 
 
 #########################
@@ -1242,5 +968,30 @@ https://videos2.sendvid.com/3b/56/b3ntb62p.mp4?validfrom=1578755247&validto=1578
 https://bit.ly/2NiMpDl
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
+https://bit.ly/2QJH8qt
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 03
+https://bit.ly/35IIiHk
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 04
+https://bit.ly/2QLd9yt
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 05
 
 
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 06
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 07
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 08
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 09
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 10
+
+
+#########################
