@@ -964,3 +964,9 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 #########################
 
 
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
+http://192.168.1.100:30001/file/G2ZqRmh3/video.mp4
+
+#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 08
+http://192.168.1.100:30001/file/Mq6YgDDk/video.mp4
