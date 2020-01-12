@@ -977,21 +977,21 @@ https://bit.ly/35IIiHk
 https://bit.ly/2QLd9yt
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 05
-
+https://bit.ly/2NhH9Qi
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 06
-
+https://bit.ly/2FJ05Dr
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 07
-
+https://bit.ly/2R9dD0w
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 08
-
+https://bit.ly/2Nj2CZo
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 09
-
+https://bit.ly/3a3tupN
 
 #EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 10
-
+https://bit.ly/30dRq5x
 
 #########################
