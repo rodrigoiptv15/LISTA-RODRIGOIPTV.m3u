@@ -1040,3 +1040,64 @@ https://bit.ly/3a2InsL
 
 
 
+#EXTINF:-1 group-title="Black.Sails",EP 01
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E01.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 02
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E02.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 03
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E03.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 04
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E04.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 05
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E05.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 06
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E06.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 07
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E07.mp4
+
+#EXTINF:-1 group-title="Black.Sails",EP 08
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E08.mp4
+
+
+#########################
+
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 01
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E01.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 02
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E02.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 03
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E03.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 04
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E04.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 05
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E05.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 06
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E06.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 07
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E07.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 08
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E08.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 09
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E09.mp4
+
+#EXTINF:-1 group-title="Black.Sails 2",EP 10
+http://samurai.aura.feralhosting.com/Black.Sails/S02/CAP.S02E010.mp4
+
+
+#########################
+
