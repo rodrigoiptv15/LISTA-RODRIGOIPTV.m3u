@@ -429,11 +429,12 @@ http://198.255.23.18:2095/streams/218_.m3u8
 #########################
 
 
+
+#EXTINF:-1 group-title="FILMES",A Vida é Bela
+https://bit.ly/3a8mb0q
+
 #EXTINF:-1 group-title="FILMES",211 O Grande Assalto
 http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
-
-#EXTINF:-1 group-title="FILMES",O manicômio
-https://barretos.net/looktvs/O%20Manic%c3%b4mio%20Dublado.mp4
 
 #EXTINF:-1 group-title="FILMES",CINDERELA POP
 http://barretos.net/looktvs/Cinderela%20Pop%20Dublado.mp4
@@ -444,21 +445,9 @@ http://barretos.net/looktvs/10x10%20Dublado.mp4
 #EXTINF:-1 group-title="FILMES",Brightburn
 http://barretos.net/looktvs/Brightburn%20-%20Filho%20das%20Trevas%20Dublado.mp4
 
-#EXTINF:-1 group-title="FILMES",MALÉVOLA
-https://xhymvfvjv.charles-howze.xyz/LSIp63p4DJx9WuhgR9DYD8njozxbOtXPozbPnlFUotxY7Sey6aOKLamK7I/0/V8qwWxsiO6oiXzroOfFQBM0hJxl9fQVourCLWprD9spUYqFdVfZJVfl3Y4on/a571a82a9f15f778daf408fe54381845.m3u8
-
-#EXTINF:-1 group-title="FILMES",MALÉVOLA
-https://xhymvfvjv.charles-howze.xyz/LSIp63p4DJx9WuhgR9DYD8njozxbOtXPozbPnlFUotxY7Sey6aOKLamK7I/0/playlist.m3u8
-
-
-#EXTINF:-1 group-title="FILMES",MALIGNO
-http://servidoresdedicado.net/looktvs/Maligno%20Dublado.mp4
-
-#EXTINF:-1 group-title="FILMES",211 O Grande Assalto
-http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
-
 #EXTINF:-1 group-title="FILMES",o menino que queria ser rei
 http://servidoresdedicado.net/looktvs/O%20Menino%20que%20Queria%20Ser%20Rei%20Dublado.mp4
+
 
 
 #########################
@@ -1008,4 +997,34 @@ https://bit.ly/2Nj2Kb6
 #########################
 
 
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 01
+https://bit.ly/2R8OTpb
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 02
+https://bit.ly/2FIOpAH
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 03
+https://bit.ly/35RiYi5
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 04
+https://bit.ly/35MZyuP
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 05
+https://bit.ly/384yrx8
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 06
+https://bit.ly/2tPOQqm
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 07
+https://bit.ly/3a8lxA2
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 08
+https://bit.ly/2QNZzuw
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 09
+https://bit.ly/2TjWdB8
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 10
+https://bit.ly/2FIj1SK
 
