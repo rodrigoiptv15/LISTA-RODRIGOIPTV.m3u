@@ -1,6 +1,6 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-#EXTINF:-1 group-title="FILMES ALICE",ABOMINÁVEL
+#EXTINF:-1 group-title="FILMES ALICE",ABOMINAVEL
 https://bit.ly/2tb8xZD
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
