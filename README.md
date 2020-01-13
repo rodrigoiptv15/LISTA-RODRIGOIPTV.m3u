@@ -973,3 +973,39 @@ https://bit.ly/2FKFleA
 
 #########################
 
+
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 01
+https://bit.ly/2NlDW2g
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 02
+https://bit.ly/2skDU3B
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 03
+https://bit.ly/2TjAVTW
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 04
+https://bit.ly/2FNlV8M
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 05
+https://bit.ly/30hEAD7
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 06
+https://bit.ly/2NmEPrz
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 07
+https://bit.ly/3a6mdpd
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 08
+https://bit.ly/3a475cg
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 09
+https://bit.ly/30pPNlv
+
+#EXTINF:-1 group-title="UMA NOITE DE CRIME",EP 10
+https://bit.ly/2Nj2Kb6
+
+#########################
+
+
+
