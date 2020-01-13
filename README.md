@@ -1,7 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 #EXTINF:-1 group-title="FILMES ALICE"ABOMINÁVEL
-https://bit.ly/2QMWxXe
+https://bit.ly/2tb8xZD
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
@@ -905,7 +905,7 @@ http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
 
 
 #EXTINF:-1 group-title="Truth be told",EP 01
-https://video.wixstatic.com/video/5b69e4_0d19434223f2467f88bec675e2764ed2/480p/mp4/file.mp4
+https://video.wixstatic.com/video/5b69e4_0d19434223f2467f88bec675e2764ed2/480p/mp4/file.mp4 
 
 #EXTINF:-1 group-title="Truth be told",EP 02
 https://video.wixstatic.com/video/5b69e4_bbdfa51b86674ad391e0de8b8ead8c07/480p/mp4/file.mp4
