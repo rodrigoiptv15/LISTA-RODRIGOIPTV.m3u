@@ -934,8 +934,42 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 #########################
 
 
-#EXTINF:-1 group-title="AMSTERDAM",link encurtado
-https://bit.ly/35Pghh2
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
+https://bit.ly/30gCRy7
 
-#EXTINF:-1 group-title="AMSTERDAM",link permanente g
-https://jxjjxy-my.sharepoint.com/%2Fpersonal%2Frodrigofamilia1_t_odmail_cn%2F_layouts%2F15%2Fdownload.aspx?UniqueId=b7fc3a0c-82ac-4f96-b8f8-b1e7085679f2&Translate=false&tempauth=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvanhqanh5LW15LnNoYXJlcG9pbnQuY29tQDFjZGYxZDdjLWNhODUtNDVjNy1iMWE2LTBkMTk3YWEwN2RjNSIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE1Nzg4ODQ4NTgiLCJleHAiOiIxNTc4OTIwODU4IiwiZW5kcG9pbnR1cmwiOiJlaGo0TG9mak5UYytKRktMOWdDdXcwYmpqNklySzhPNk9LQzFWamdSVUJFPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTU3IiwiaXNsb29wYmFjayI6IlRydWUiLCJjaWQiOiJZbVJtTURKaE9XWXRaVEJoWmkwd01EQXdMVE01T1dVdFpXUmhPVFl4TUdJME1qbGoiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiWlRNMU1XUm1OalV0T1RaaU9DMDBZekpsTFRrd05URXRaV0ZoTlRFMU5UVmtNemhqIiwiYXBwX2Rpc3BsYXluYW1lIjoiT25lRHJpdmUiLCJnaXZlbl9uYW1lIjoiUm9kcmlnbyIsImZhbWlseV9uYW1lIjoiRmFtaWxpYSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHxyb2RyaWdvZmFtaWxpYTFAdC5vZG1haWwuY24iLCJuaWkiOiJtaWNyb3NvZnQuc2hhcmVwb2ludCIsImlzdXNlciI6InRydWUiLCJjYWNoZWtleSI6IjBoLmZ8bWVtYmVyc2hpcHwxMDAzMjAwMDdmNmNmMTNkQGxpdmUuY29tIiwic2hhcmluZ2lkIjoiYzczYjI0NmEtMmU0YS00ZDNkLTgyMzMtOGQ0Mjk0NjgyNzIyIiwidHQiOiIwIiwidXNlUGVyc2lzdGVudENvb2tpZSI6bnVsbH0.d0M2b0pKcUtzQUh4R2ExMEE5LzQyQXcvczN4eUtIVmNrSGxwd1MvOUZEOD0
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
+https://bit.ly/2uKvgfB
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
+https://bit.ly/30cPTwD
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
+https://bit.ly/2NisR2c
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
+https://bit.ly/2sn3hSm
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
+https://bit.ly/35SJwQp
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
+https://bit.ly/30csAD8
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
+https://bit.ly/36QiSbZ
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 09
+https://bit.ly/3a7e5F1
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 10
+https://bit.ly/2ReLhSF
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 11
+https://bit.ly/2FVEIPH
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 12
+https://bit.ly/2FKFleA
+
+
+#########################
+
