@@ -934,5 +934,5 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 #########################
 
 
-#EXTINF:-1 group-title="ME CHAMA DE BRUNA",EP 07
-https://bit.ly/2ThRhwh
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 01
+https://jxjjxy-my.sharepoint.com/personal/rodrigofamilia1_t_odmail_cn/Documents/series/Rua%20augusta/Rua.augusta.01x01.mp4
