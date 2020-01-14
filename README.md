@@ -1001,9 +1001,18 @@ https://download2260.mediafire.com/pbimqlsvt8pg/tkjn13v4zvl1vjg/9.mp4
 https://download2261.mediafire.com/11e1y3i6pbmg/91x2fsjf2t390g9/10.mp4
 
 #EXTINF:-1 group-title="NEW AMSTERDAM",EP 11
-
+https://download2262.mediafire.com/28lo8x9xyutg/wloshc8301lp1ah/11.mp4
 
 #EXTINF:-1 group-title="NEW AMSTERDAM",EP 12
+https://download1351.mediafire.com/6m9eqfwyahyg/5phimxtf2qdeu8z/12.mp4
+
+
+#########################
 
 
 
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 03 teste app
+http://p3---knwebj8u-s547.video.gmedia.site/series/p-1/american-horror-story/6-temp/dub/sd/3.mp4?rm=KVxKGV6OoeyLvWjHBXGn7A&rf=1579092060
+
+
+#########################
