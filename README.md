@@ -1080,3 +1080,38 @@ https://download1083.mediafire.com/cmppvrik5cbg/9xrs70t5qkynq50/8.mp4
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 01
+https://download2262.mediafire.com/92w31w5468pg/l62cpz6igdfn9b6/1.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 02
+https://download1075.mediafire.com/v7oulb7i278g/brl21yerduyjznf/2.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 03
+https://download1324.mediafire.com/5mv9y3xkrssg/nqnbor7et22srd0/3.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 04
+https://download1512.mediafire.com/in13tu75jf3g/ccq2q9st3enlfe2/4.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 05
+https://download1079.mediafire.com/b7yp58zntnxg/ff242tl3krp0bms/5.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 06
+https://download1326.mediafire.com/hsm1xq5g1qjg/acjx6uqxk2gnpk4/6.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 07
+https://download1655.mediafire.com/hqjw092dzgag/19bu29rdydxree9/7.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 08
+https://download2268.mediafire.com/57jhqmmvl9lg/3581qxqxk2u2hum/8.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 09
+https://download1489.mediafire.com/lbdip50j46kg/8p745lgl0wvu6sc/9.mp4
+
+#EXTINF:-1 group-title="AMERICAN HORROR STORY",EP 10
+https://download1349.mediafire.com/mu785bz3if9g/hq69gwgbxm3o5aq/10.mp4
+
+
+#########################
