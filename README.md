@@ -970,3 +970,40 @@ https://download2268.mediafire.com/4yceh5pujlig/j7d5tro5fujivpm/Rua.augusta.01x1
 #########################
 
 
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 01
+https://download1076.mediafire.com/rpg2lo1iid4g/ugb1lpwlw8jgzwz/1.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 02
+https://download2267.mediafire.com/0h47gl48yd3g/yakhzmvle0kh2b4/EP+02.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 03
+https://download855.mediafire.com/7xpy98w5rwjg/bb3rxnsjnlzizk1/3.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 04
+https://download2269.mediafire.com/xnqs3b5hu9ng/w31awgzr0l0e6nj/4.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 05
+https://download2267.mediafire.com/28nb6u5mp1hg/lptvmz2tzsoyixw/5.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 06
+https://download1500.mediafire.com/ffcj2yx6icyg/edrcwj1p8lhbf1z/6.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 07
+https://download850.mediafire.com/lir34bbewzhg/k4q73qtwlangt0m/7.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 08
+https://download1335.mediafire.com/zitgoekcklug/8s74pw9cxy5b6f5/8.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 09
+https://download2260.mediafire.com/pbimqlsvt8pg/tkjn13v4zvl1vjg/9.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 10
+https://download2261.mediafire.com/11e1y3i6pbmg/91x2fsjf2t390g9/10.mp4
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 11
+
+
+#EXTINF:-1 group-title="NEW AMSTERDAM",EP 12
+
+
+
