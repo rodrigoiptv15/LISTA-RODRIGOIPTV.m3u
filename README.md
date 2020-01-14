@@ -1115,3 +1115,70 @@ https://download1349.mediafire.com/mu785bz3if9g/hq69gwgbxm3o5aq/10.mp4
 
 
 #########################
+
+
+
+
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 01
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E01.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 02
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E02.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 03
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E03.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 04
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E04.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 05
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E05.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 06
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E06.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 07
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E07.mp4
+
+#EXTINF:-1 group-title="BLACK SAILS",EP 08
+http://samurai.aura.feralhosting.com/Black.Sails/S01/CAP.S01E08.mp4
+
+
+
+#########################
+
+
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 01
+https://download1350.mediafire.com/9bco28uzzipg/4o4jyb13ladpq70/1.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 02
+https://download2263.mediafire.com/yw7pgxhqc2zg/dkqj5b8nyi3ij8z/2.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 03
+https://download1654.mediafire.com/qvfvlhjb3ywg/myivj0oc8ho8hun/3.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 04
+https://download1080.mediafire.com/vn3se93isblg/zlt7n0cnitd1190/4.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 05
+https://download2266.mediafire.com/je26ztflh3og/i6lmrztzf710ws1/5.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 06
+https://download1585.mediafire.com/xqbnt1fqbdig/472081so0gw3c9y/6.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 07
+https://download1594.mediafire.com/8q6bz2xw3qog/l9y9htyi302o2xs/7.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 08
+https://download1482.mediafire.com/u9a04uvdwwwg/p0x6jg2qwo2w5j9/8.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 09
+https://download1654.mediafire.com/g6ipk5g1qjhg/k4otuepxgdpbo9y/9.mp4
+
+#EXTINF:-1 group-title="THE EXORCIST 2",EP 10
+https://download1512.mediafire.com/zefzjdz7inwg/hjbuqi4uq3p4hvz/10.mp4
+
+
+#########################
