@@ -1016,3 +1016,38 @@ http://p3---knwebj8u-s547.video.gmedia.site/series/p-1/american-horror-story/6-t
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 01
+https://download1639.mediafire.com/xi3sf84smztg/volnthlv0y6kqth/EP+01.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 02
+https://download1336.mediafire.com/60eq44qxq9dg/grflbgq5wj3l5ag/EP+02.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 03
+https://download1349.mediafire.com/b7jinp4m0qbg/7k6t5sswnihqpbb/EP+03.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 04
+https://download1474.mediafire.com/vgovjns9uumg/9h9geknebyagxnr/The.Purge.S01E04.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 05
+https://download1645.mediafire.com/yxdnmo0cg1sg/m5arhn3wut7x4qg/The.Purge.S01E05.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 06
+https://download1649.mediafire.com/0auek57svupg/ex9f7v4edvasotv/The.Purge.S01E06.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 07
+https://download2269.mediafire.com/bl1sdqo4yjhg/h6pr4meldxfbe7b/The.Purge.S01E07.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 08
+https://download1643.mediafire.com/3il5gj23rjog/fpm1b0d6aepqw9c/The.Purge.S01E08.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 09
+https://download1081.mediafire.com/kgzyc2r3ttwg/ov9bx2gt1pta4fu/The.Purge.S01E09.mp4
+
+#EXTINF:-1 group-title="UMA NOITE CRIME",EP 10
+https://download1647.mediafire.com/emu90lbmu6og/drzagpa9xrqt282/The.Purge.S01E10.mp4
+
+
+#########################
