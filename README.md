@@ -1051,3 +1051,32 @@ https://download1647.mediafire.com/emu90lbmu6og/drzagpa9xrqt282/The.Purge.S01E10
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 01
+https://download939.mediafire.com/ng0w89bio2bg/9shn1l7xe3xhjq6/1.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 02
+https://download850.mediafire.com/49bdthhq06ng/sn9waj6b0f1rnki/2.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 03
+https://download936.mediafire.com/saktlso80btg/gk1rlltu3m6mbv1/3.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 04
+https://download1320.mediafire.com/4dxg21kl2ssg/1lmmfwy8wsadj65/4.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 05
+https://download1495.mediafire.com/ssp2dstqbcpg/q84o8gl54xj7cm8/5.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 06
+https://download1501.mediafire.com/ua4d05zaw2ig/qdf8rcgsj185yqb/6.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 07
+https://download1488.mediafire.com/kytwn2k5s00g/71uyh7chsz5chyi/7.mp4
+
+#EXTINF:-1 group-title="DA VINCIS DEMONS",EP 08
+https://download1083.mediafire.com/cmppvrik5cbg/9xrs70t5qkynq50/8.mp4
+
+
+#########################
