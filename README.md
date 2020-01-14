@@ -925,3 +925,30 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 
 #EXTINF:-1 group-title="mediafire",teste 22:40
 http://download2032.mediafire.com/j95w0cimfzjg/uz254p19ef4yfd9/5.mp4
+
+
+
+
+#########################
+
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
+http://download1326.mediafire.com/e3wmmncdlawg/4swq1n0ft4acq8n/Rua.augusta.01x02.mp4
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 07
+
+
+#EXTINF:-1 group-title="RUA AUGUSTA",EP 08
