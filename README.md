@@ -429,12 +429,13 @@ http://198.255.23.18:2095/streams/218_.m3u8
 #########################
 
 
+#EXTINF:-1 group-title="FILMES",
 
-#EXTINF:-1 group-title="FILMES",ABOMINÁVEL
-https://download949.mediafire.com/2arree0glyig/ym8wszfsj11x0n0/ABOMIN%C3%81VEL.mp4
 
-#EXTINF:-1 group-title="FILMES",A Vida é Bela
-https://bit.ly/3a8mb0q
+
+#EXTINF:-1 group-title="FILMES",meu nome é khan
+https://vd34.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1579193822365&srcIp=51.79.25.198&srcAg=CHROME_ANDROID&ms=217.20.157.208&type=4&sig=d1cmExCaiA8&ct=8&urls=217.20.145.49&clientType=0&id=362694576827 
+
 
 #EXTINF:-1 group-title="FILMES",211 O Grande Assalto
 http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
@@ -444,9 +445,6 @@ http://barretos.net/looktvs/Cinderela%20Pop%20Dublado.mp4
 
 #EXTINF:-1 group-title="FILMES",10X10
 http://barretos.net/looktvs/10x10%20Dublado.mp4
-
-#EXTINF:-1 group-title="FILMES",Brightburn
-http://barretos.net/looktvs/Brightburn%20-%20Filho%20das%20Trevas%20Dublado.mp4
 
 #EXTINF:-1 group-title="FILMES",o menino que queria ser rei
 http://servidoresdedicado.net/looktvs/O%20Menino%20que%20Queria%20Ser%20Rei%20Dublado.mp4
@@ -735,36 +733,6 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 
 #EXTINF:-1 group-title="WestWorld",EP 10
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
-
-#########################
-
-
-#EXTINF:-1 group-title="THE BOYS",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/22705.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/22704.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/22703.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/22702.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/22701.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/22700.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/22699.mp4
-
-#EXTINF:-1 group-title="THE BOYS",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/22698.mp4
-
-
-
 
 #########################
 
