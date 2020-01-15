@@ -1182,3 +1182,59 @@ https://download1512.mediafire.com/zefzjdz7inwg/hjbuqi4uq3p4hvz/10.mp4
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 01
+https://download844.mediafire.com/5426po99owag/jnwnik79soirnpa/1.mp4
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 02
+https://download2260.mediafire.com/j8m7bfokykkg/i0mmgmeez9lx387/2.mp4
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 03
+https://download1500.mediafire.com/3u32cjk9r6gg/wl2vdv776p9uj3d/3.mp4
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 04
+https://download1655.mediafire.com/75f22zcsobog/w0h0bluvibifxui/4.mp4
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 05
+https://download1514.mediafire.com/qyru4c70g6zg/d93jmueqxjrqdvk/5.mp4
+
+#EXTINF:-1 group-title="THE BLACK LIST 7",EP 06
+https://download1644.mediafire.com/cqszb9yixkjg/hfyxxfvqn1bvdxa/6.mp4
+
+
+#########################
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 01
+https://download1500.mediafire.com/w5yeqsr36pog/ndbq89mwzovdkwb/01.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 02
+https://download1644.mediafire.com/gldnjlyd9j9g/afddq11evquz62k/02.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 03
+https://download847.mediafire.com/9g2gy5ivnc7g/vs6m89z07xzbxoj/03.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 04
+https://download848.mediafire.com/y3vozdcbo1rg/uq3o4fpdx64u5qi/04.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 05
+https://download2261.mediafire.com/usjl07aekcdg/oabsuv4ekxmbajf/05.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 06
+https://download1595.mediafire.com/e0rcboj7j0dg/vfkfq0ocxuqc8h3/06.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 07
+https://download1512.mediafire.com/okx81im84dwg/1zh6xapi4jl24dj/07.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 08
+https://download1502.mediafire.com/8nj7ou0yzwlg/529so15df35pq2u/08.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 09
+https://download1507.mediafire.com/po7sj7dtyh2g/rlu57thbhq4vdyd/09.mp4
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 10
+https://download1507.mediafire.com/urztu0s4ml6g/yntvtgmpwcv58jf/10.mp4
+
+
+#########################
