@@ -430,6 +430,9 @@ http://198.255.23.18:2095/streams/218_.m3u8
 
 
 
+#EXTINF:-1 group-title="FILMES",ABOMINÁVEL
+https://download949.mediafire.com/2arree0glyig/ym8wszfsj11x0n0/ABOMIN%C3%81VEL.mp4
+
 #EXTINF:-1 group-title="FILMES",A Vida é Bela
 https://bit.ly/3a8mb0q
 
