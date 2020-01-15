@@ -1209,3 +1209,15 @@ https://download1507.mediafire.com/urztu0s4ml6g/yntvtgmpwcv58jf/10.mp4
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="the outsider",EP 01
+https://download1591.mediafire.com/v5r32f9spxbg/hp2ap4yrzr8qsem/1.mp4
+
+#EXTINF:-1 group-title="the outsider",EP 02
+https://download940.mediafire.com/h8z15603x5gg/9mspo5nly7pvs54/2.mp4
+
+
+
+#########################
