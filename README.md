@@ -1178,34 +1178,34 @@ https://download1644.mediafire.com/cqszb9yixkjg/hfyxxfvqn1bvdxa/6.mp4
 #########################
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 01
-https://streaming.disk.yandex.net/hls/U2FsdGVkX18Y437HXDaIJJdJawUowukW6Djt9GJNbGkbHqH1nNlio8hOmfajNtKqrn2ZFK7YpnJJeICMX6VPvqWnFwbcuqSaS_-o7Z3T5gCXGRIBo8eJ2FRexGoCfZrm0ZojQI3T90byH1GkgRAcqtXn_q0tG8KRDhhx01dVlOIkq8QICD2Ml5nPvBrDNYH6lMf-qXzESXLAi7vvxdGSCxj27WJdgbUndHdYbS6sM0q9Dy_ojfabpltzWiikR6Y7l4iBkaJ_aMQAM5CiyAIRxyqthZ05P3gWwlGqMcO6lL0/59c474e1fb850/3497d460230cb9c0620d60b2efacec0fd84a54bc36878a201cc7e9371455f923/master-playlist.m3u8?from=disk&vsid=cc1dd7f8a7c828e1e91b1a4d2227d19b3ff70c01fbbfxWEBx2355x1579118554&session_data=1
+https://download940.mediafire.com/quw530fij4sg/l2ob6674nyanamq/Verdades+Secretas+01+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 02
-https://streaming.disk.yandex.net/hls/U2FsdGVkX1_pJUxm1SzKtF4OooqpDbmGtAEiJpPmrS733FPXt5jx-K_rG_1Pxg3Bx_wRSEAk8DG2wbflPQqD5URx8uDC1KdhkGuEfUA74pbMMqnrJPYM61qIj2a3BFJx1opGahsrfYRAXhKzUJT3LWMEomiozeQ6K3pw5IAcIO8UfvRYxfAL5vnB6GZR2Q9gGyL4_mV99tr9MVm0ppTgzpeGsPpuofpz0cmXNKLjEqO4hoMakCnFl1BG87AQ3w_UftMmchi84NrmIUWZiy8VdOHZLs6IP8S-pD20XRXUlvQ/59c4760184298/d8b22b2115c3020eff8ba4e692ded6f3365020863a621358818c18e9159b873e/master-playlist.m3u8?from=disk&vsid=fab5db9d4d7314b2cc6c12cc0d760f4f1349489c833bxWEBx2355x1579118854&session_data=1
+https://download2268.mediafire.com/4ng682n1wcgg/s6sxyjbafsv31vg/Verdades+Secretas+02+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 03
-https://download847.mediafire.com/9g2gy5ivnc7g/vs6m89z07xzbxoj/03.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 04
-https://download848.mediafire.com/y3vozdcbo1rg/uq3o4fpdx64u5qi/04.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 05
-https://download2261.mediafire.com/usjl07aekcdg/oabsuv4ekxmbajf/05.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 06
-https://download1595.mediafire.com/e0rcboj7j0dg/vfkfq0ocxuqc8h3/06.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 07
-https://download1512.mediafire.com/okx81im84dwg/1zh6xapi4jl24dj/07.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 08
-https://download1502.mediafire.com/8nj7ou0yzwlg/529so15df35pq2u/08.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 09
-https://download1507.mediafire.com/po7sj7dtyh2g/rlu57thbhq4vdyd/09.mp4
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 10
-https://download1507.mediafire.com/urztu0s4ml6g/yntvtgmpwcv58jf/10.mp4
+
 
 
 #########################
