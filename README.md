@@ -907,6 +907,8 @@ http://download2032.mediafire.com/j95w0cimfzjg/uz254p19ef4yfd9/5.mp4
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 02
 http://download1326.mediafire.com/e3wmmncdlawg/4swq1n0ft4acq8n/Rua.augusta.01x02.mp4
 
+https://download1326.mediafire.com/4qzxx98sfpug/4swq1n0ft4acq8n/Rua.augusta.01x02.mp4
+
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 03
 https://download1525.mediafire.com/rm1rqpgor1yg/x0lnfzwtypg1oeh/Rua.augusta.01x03.mp4
 
@@ -917,10 +919,10 @@ https://download2267.mediafire.com/3zulwty12shg/de2by2ylk318rb7/Rua.augusta.01x0
 https://download2266.mediafire.com/6eqzx945s3pg/1752ecz3phn4wc2/Rua.augusta.01x05.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 06
-https://download1075.mediafire.com/6n6mm36a4t9g/wf9eobn342j7kmh/Rua.augusta.01x06.mp4
+https://download1075.mediafire.com/wivp8bx4e0kg/wf9eobn342j7kmh/Rua.augusta.01x06.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 07
-https://download1650.mediafire.com/fa087xklwhlg/pouaewplli0qher/Rua.augusta.01x07.mp4
+https://download1650.mediafire.com/flfsd7iume8g/pouaewplli0qher/Rua.augusta.01x07.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 08
 https://download1488.mediafire.com/li9bxw1kz9fg/p0w6hx99f3blxgf/Rua.augusta.01x08.mp4
@@ -1214,22 +1216,22 @@ https://download1472.mediafire.com/ib9patzzbqqg/oerpb4zi424xw67/Verdades+Secreta
 https://download846.mediafire.com/68ayyeq3518g/lklotxz955km995/Verdades+Secretas+12+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 13
-
+https://download2262.mediafire.com/du3y7cmmpelg/zx191xt9fx87xdv/Verdades+Secretas+13+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 14
-
+https://download2267.mediafire.com/bq2knldhj6eg/40bbh40fxop2rop/Verdades+Secretas+14+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 15
-
+https://download1519.mediafire.com/suvohwgn4rmg/57wmxivtwm2bldz/Verdades+Secretas+15+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 16
-
+https://download2266.mediafire.com/220oaub23wfg/cd8pjqgbfu7wfoc/Verdades+Secretas+16+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 17
-
+https://download1591.mediafire.com/tbanlg95hg1g/cxxotsa1vwgl5p4/Verdades+Secretas+17+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 18
-
+https://download1495.mediafire.com/0q89rbhedvug/rgxxjdqcm0oybbw/Verdades+Secretas+18+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 19
 
