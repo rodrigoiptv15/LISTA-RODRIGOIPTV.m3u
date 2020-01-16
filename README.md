@@ -889,55 +889,27 @@ https://video.wixstatic.com/video/2d672e_285a88cc100448d1bc78f72c65ec2048/480p/m
 https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/mp4/file.mp4
 
 
-
-
 #########################
 
 
-#EXTINF:-1 group-title="mediafire",teste 22:40
-http://download2032.mediafire.com/j95w0cimfzjg/uz254p19ef4yfd9/5.mp4
-
-
-
-
-#########################
-
-
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 02
-http://download1326.mediafire.com/e3wmmncdlawg/4swq1n0ft4acq8n/Rua.augusta.01x02.mp4
-
-https://download1326.mediafire.com/4qzxx98sfpug/4swq1n0ft4acq8n/Rua.augusta.01x02.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 03
-https://download1525.mediafire.com/rm1rqpgor1yg/x0lnfzwtypg1oeh/Rua.augusta.01x03.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 04
-https://download2267.mediafire.com/3zulwty12shg/de2by2ylk318rb7/Rua.augusta.01x04.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 05
-https://download2266.mediafire.com/6eqzx945s3pg/1752ecz3phn4wc2/Rua.augusta.01x05.mp4
-
-#EXTINF:-1 group-title="RUA AUGUSTA",EP 06
-https://download1075.mediafire.com/wivp8bx4e0kg/wf9eobn342j7kmh/Rua.augusta.01x06.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 07
 https://download1650.mediafire.com/flfsd7iume8g/pouaewplli0qher/Rua.augusta.01x07.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 08
-https://download1488.mediafire.com/li9bxw1kz9fg/p0w6hx99f3blxgf/Rua.augusta.01x08.mp4
+https://download1488.mediafire.com/p6rhswgvtsxg/p0w6hx99f3blxgf/Rua.augusta.01x08.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 09
-https://download1643.mediafire.com/h8rbeiubxk2g/612bemhd37j1b2m/Rua.augusta.01x09.mp4
+https://download1643.mediafire.com/xzmh2mjqq94g/612bemhd37j1b2m/Rua.augusta.01x09.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 10
-https://download1490.mediafire.com/rol7iqbkkzog/0ppmpsodkh69lfi/Rua.augusta.01x10.mp4
+https://download1490.mediafire.com/oev4of9aeiig/0ppmpsodkh69lfi/Rua.augusta.01x10.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 11
-https://download1478.mediafire.com/7xmb53yjeqmg/xc4p977k69x4qa1/Rua.augusta.01x11.mp4
+https://download1478.mediafire.com/yhqx0bz5feeg/xc4p977k69x4qa1/Rua.augusta.01x11.mp4
 
 #EXTINF:-1 group-title="RUA AUGUSTA",EP 12
-https://download2268.mediafire.com/4yceh5pujlig/j7d5tro5fujivpm/Rua.augusta.01x12.mp4
+https://download1334.mediafire.com/wbsjs7cfn0gg/j7d5tro5fujivpm/Rua.augusta.01x12.mp4
 
 
 #########################
@@ -1179,11 +1151,10 @@ https://download1644.mediafire.com/cqszb9yixkjg/hfyxxfvqn1bvdxa/6.mp4
 
 #########################
 
-#EXTINF:-1 group-title="VERDADES SECRETAS",EP 01
-https://download940.mediafire.com/quw530fij4sg/l2ob6674nyanamq/Verdades+Secretas+01+sub.avi
+
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 02
-https://download2268.mediafire.com/4ng682n1wcgg/s6sxyjbafsv31vg/Verdades+Secretas+02+sub.avi
+https://download1495.mediafire.com/9y42kt2ix9dg/s6sxyjbafsv31vg/Verdades+Secretas+02+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 03
 https://download1586.mediafire.com/9cnsyrj1wlpg/6avx9f8a4avtxwp/Verdades+Secretas+03+sub.avi 
