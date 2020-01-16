@@ -1,7 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 #EXTINF:-1 group-title="FILMES ALICE",ABOMINAVEL
-https://download2267.mediafire.com/j8mvob0vtf9g/ineujhczyjibvyo/430M1N4V3L.2019.720.DB.mp4
+http://download857.mediafire.com/4nini3ce1kjg/ineujhczyjibvyo/430M1N4V3L.2019.720.DB.mp4 
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
@@ -850,10 +850,10 @@ https://download844.mediafire.com/5426po99owag/jnwnik79soirnpa/1.mp4
 https://download2260.mediafire.com/j8m7bfokykkg/i0mmgmeez9lx387/2.mp4
 
 #EXTINF:-1 group-title="THE BLACK LIST 7",EP 03
-https://download1500.mediafire.com/3u32cjk9r6gg/wl2vdv776p9uj3d/3.mp4
+http://download1500.mediafire.com/77o68mj7qlqg/wl2vdv776p9uj3d/3.mp4 
 
 #EXTINF:-1 group-title="THE BLACK LIST 7",EP 04
-https://download1655.mediafire.com/75f22zcsobog/w0h0bluvibifxui/4.mp4
+http://download1655.mediafire.com/dn00idhopqqg/w0h0bluvibifxui/4.mp4
 
 #EXTINF:-1 group-title="THE BLACK LIST 7",EP 05
 https://download1514.mediafire.com/qyru4c70g6zg/d93jmueqxjrqdvk/5.mp4
