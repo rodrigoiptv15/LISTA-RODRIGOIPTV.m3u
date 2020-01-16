@@ -1184,27 +1184,57 @@ https://download940.mediafire.com/quw530fij4sg/l2ob6674nyanamq/Verdades+Secretas
 https://download2268.mediafire.com/4ng682n1wcgg/s6sxyjbafsv31vg/Verdades+Secretas+02+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 03
-
+https://download1586.mediafire.com/9cnsyrj1wlpg/6avx9f8a4avtxwp/Verdades+Secretas+03+sub.avi 
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 04
-
+https://download1492.mediafire.com/6rtxf53mqtqg/rudqgzix0l3thgj/Verdades+Secretas+04+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 05
-
+https://download1643.mediafire.com/5eqgh6sdopkg/9q6h0590bloy1oj/Verdades+Secretas+05+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 06
-
+https://download943.mediafire.com/eznp221q8rjg/domjhqo4lxgt8c7/Verdades+Secretas+06+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 07
-
+https://download2266.mediafire.com/jeo3kds3sj8g/vbqmfrbuupfhiq1/Verdades+Secretas+07+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 08
-
+https://download1351.mediafire.com/s7glpbbxvufg/n82xcmnb2c4rlr6/Verdades+Secretas+08+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 09
-
+https://download1083.mediafire.com/uy43mcc8dceg/yz9e4mowt985rp1/Verdades+Secretas+09+sub.avi
 
 #EXTINF:-1 group-title="VERDADES SECRETAS",EP 10
+https://download1590.mediafire.com/8otji693l8zg/f0960ri1n5n8xhw/Verdades+Secretas+10+sub.avi
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 11
+https://download1472.mediafire.com/ib9patzzbqqg/oerpb4zi424xw67/Verdades+Secretas+11+sub.avi
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 12
+https://download846.mediafire.com/68ayyeq3518g/lklotxz955km995/Verdades+Secretas+12+sub.avi
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 13
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 14
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 15
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 16
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 17
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 18
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 19
+
+
+#EXTINF:-1 group-title="VERDADES SECRETAS",EP 20
 
 
 
