@@ -523,36 +523,6 @@ http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
 
 
 
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 01
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E01.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 02
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E02.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 03
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E03.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 04
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E04.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 05
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E05.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 06
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E06.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 07
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E07.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 08
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E08.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 09
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E09.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 10
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E10.mp4
-
 #EXTINF:-1 group-title="Dois Homens E Meio 12",EP 11
 http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E11.mp4
 
