@@ -83,9 +83,11 @@ http://198.255.23.18:2095/streams/142_.m3u8
 #EXTINF:-1 group-title="CANAIS",MTV
 http://188.165.221.28:25461/live/O5PnAUJgPtE0YE/1UHbiLfL0nZU/1651.m3u8
 
-#EXTINF:-1 group-title="CANAIS",
+#EXTINF:-1 group-title="CANAIS",FOOD NETWORK
+http://188.165.221.28:25461/live/jPFQtNAfL9pG6a/CYpuWqmghFUy/1563.m3u8
 
-#EXTINF:-1 group-title="CANAIS",
+#EXTINF:-1 group-title="CANAIS",FOX PREMIUM 2
+http://188.165.221.28:25461/live/jPFQtNAfL9pG6a/CYpuWqmghFUy/1573.m3u8
 
 #EXTINF:-1 group-title="CANAIS",
 
