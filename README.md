@@ -1,7 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-#EXTINF:-1 group-title="FILMES ALICE",ABOMINAVEL
-http://download857.mediafire.com/4nini3ce1kjg/ineujhczyjibvyo/430M1N4V3L.2019.720.DB.mp4 
+#EXTINF:-1 group-title="FILMES ALICE",A Princesa e o Dragão
+https://cdn11.megaupload.to/hls/4ib57xv3hei7bh3jeosaizhjgddkngan6gousmusyw2edipbq4bu6ehcfsga/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
