@@ -575,3 +575,37 @@ https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/m
 
 
 #########################
+
+
+#EXTINF:-1 group-title="thefollowing",EP 01
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e01-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 02
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e02-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 03
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e03-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 04
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e04-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 05
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e05-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 06
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e06-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 07
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e07-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 08
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e08-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 09
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e09-dub-720p.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 10
+http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
+
+
+#########################
