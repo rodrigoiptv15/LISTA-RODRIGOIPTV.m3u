@@ -5,6 +5,9 @@
 #EXTINF:-1 group-title="FILMES ALICE",Disney XD
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
 
+#EXTINF:-1 group-title="FILMES ALICE",Disney XD
+http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer3.m3u8
+
 #EXTINF:-1 group-title="FILMES ALICE",Disney Jr
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
 
