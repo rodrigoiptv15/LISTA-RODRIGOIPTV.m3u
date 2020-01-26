@@ -2,13 +2,13 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil", Disney XD HD
+#EXTINF:-1 group-title="FILMES ALICE",Disney XD
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil", Disney Junior HD
+#EXTINF:-1 group-title="FILMES ALICE",Disney Jr
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil", Disney Channel HD
+#EXTINF:-1 group-title="FILMES ALICE",Disney Channel
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
 
 
