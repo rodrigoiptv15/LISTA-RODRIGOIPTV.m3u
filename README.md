@@ -5,18 +5,11 @@
 #EXTINF:-1 group-title="FILMES ALICE",Disney XD
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
 
-#EXTINF:-1 group-title="FILMES ALICE",Disney XD teste
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer1.m3u8
-
 #EXTINF:-1 group-title="FILMES ALICE",Disney Jr
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",Disney Channel
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
-
-
-#EXTINF:-1 group-title="FILMES ALICE",A Princesa e o Dragão
-https://cdn11.megaupload.to/hls/4ib57xv3hei7bh3jeosaizhjgddkngan6gousmusyw2edipbq4bu6ehcfsga/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
@@ -212,39 +205,11 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
 
-#EXTINF:-1 group-title="CANAIS AD",PLAYBOY
-http://198.255.23.18:2095/streams/215_.m3u8
-
-#EXTINF:-1 group-title="CANAIS AD",SEXTREME
-http://198.255.23.18:2095/streams/216_.m3u8
-
-#EXTINF:-1 group-title="CANAIS AD",SEXYHOT
-http://198.255.23.18:2095/streams/217_.m3u8
-
-#EXTINF:-1 group-title="CANAIS AD",VENUS
-http://198.255.23.18:2095/streams/218_.m3u8
-
-
-
-#########################
-
-
 #EXTINF:-1 group-title="FILMES",
 
 
 
-#EXTINF:-1 group-title="FILMES",meu nome é khan
-https://vd34.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1579193822365&srcIp=51.79.25.198&srcAg=CHROME_ANDROID&ms=217.20.157.208&type=4&sig=d1cmExCaiA8&ct=8&urls=217.20.145.49&clientType=0&id=362694576827 
 
-
-#EXTINF:-1 group-title="FILMES",211 O Grande Assalto
-http://servidoresdedicado.net/looktvs/211%20-%20O%20Grande%20Assalto%20Dublado%20Online%20Gr%c3%a1tis.mp4
-
-#EXTINF:-1 group-title="FILMES",CINDERELA POP
-http://barretos.net/looktvs/Cinderela%20Pop%20Dublado.mp4
-
-#EXTINF:-1 group-title="FILMES",10X10
-http://barretos.net/looktvs/10x10%20Dublado.mp4
 
 #EXTINF:-1 group-title="FILMES",o menino que queria ser rei
 http://servidoresdedicado.net/looktvs/O%20Menino%20que%20Queria%20Ser%20Rei%20Dublado.mp4
@@ -314,36 +279,7 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
 #EXTINF:-1 group-title="WestWorld",EP 10
 http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
-#########################
 
-
-
-#EXTINF:-1 group-title="WATCHMEN",EP 01
-http://samuraihd.com.br:25461/series/natanael/nata2566/30663.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 02
-http://samuraihd.com.br:25461/series/natanael/nata2566/30664.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 03
-http://samuraihd.com.br:25461/series/natanael/nata2566/30665.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 04
-http://samuraihd.com.br:25461/series/natanael/nata2566/30666.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 05
-http://samuraihd.com.br:25461/series/natanael/nata2566/30667.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 06
-http://samuraihd.com.br:25461/series/natanael/nata2566/30668.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 07
-http://samuraihd.com.br:25461/series/natanael/nata2566/30669.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 08
-http://samuraihd.com.br:25461/series/natanael/nata2566/30670.mp4
-
-#EXTINF:-1 group-title="WATCHMEN",EP 09
-http://samuraihd.com.br:25461/series/natanael/nata2566/30671.mp4
 
 #########################
 
@@ -386,32 +322,11 @@ http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
 #EXTINF:-1 group-title="ILHA DE FERRO",EP 12
 http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
 
-#########################
-
-
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 11
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E11.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 12
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E12.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 13
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E13.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 14
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E14.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 15
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E15.mp4
-
-#EXTINF:-1 group-title="Dois Homens E Meio 12",EP 16
-http://samurai.morpheus.feralhosting.com/Two.And.A.Half.Man/S12/S12E16.mp4
-
-
 
 
 #########################
+
+
 
 
 #EXTINF:-1 group-title="Truth be told",EP 01
