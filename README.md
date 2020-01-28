@@ -1,6 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-
+#EXTINF:-1 group-title="CANAIS",MTV
+https://live.multicanais.com/mylive/mtvsd/video.m3u8?md5=JQ7-d9OEUuwSpatbxycugg&expires=1580184426
 
 #EXTINF:-1 group-title="FILMES ALICE",Disney XD
 http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
