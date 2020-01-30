@@ -381,3 +381,47 @@ http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
 
 
 #########################
+
+
+
+#EXTINF:-1 group-title="O negocio",EP 01
+http://srv-11.directserver.us/?file=mega_e619c0a5a6
+
+#EXTINF:-1 group-title="O negocio",EP 02
+http://srv-6.directserver.us/?file=mega_51ad0f8eaf
+
+#EXTINF:-1 group-title="O negocio",EP 03
+http://srv-16.directserver.us/?file=mega_3a1dfa2831
+
+#EXTINF:-1 group-title="O negocio",EP 04
+http://srv-12.directserver.us/?file=mega_85f8b38cc7
+
+#EXTINF:-1 group-title="O negocio",EP 05
+http://srv-16.directserver.us/?file=mega_512ff41609
+
+#EXTINF:-1 group-title="O negocio",EP 06
+http://srv-9.directserver.us/?file=mega_2351f62be9
+
+#EXTINF:-1 group-title="O negocio",EP 07
+http://srv-13.directserver.us/?file=mega_5669204473
+
+#EXTINF:-1 group-title="O negocio",EP 08
+https://mega.nz/#!DYoDjQwa!3n7SzNKpO079LdT6sMy9rN3jV4qnl3Ghe-uG0xLBbPY
+
+#EXTINF:-1 group-title="O negocio",EP 09
+http://srv-8.directserver.us/?file=mega_7a1cab98b0
+
+#EXTINF:-1 group-title="O negocio",EP 10
+http://srv-10.directserver.us/?file=mega_8e34d88bd0
+
+#EXTINF:-1 group-title="O negocio",EP 11
+http://srv-6.directserver.us/?file=mega_dfd83f9510
+
+#EXTINF:-1 group-title="O negocio",EP 12
+http://srv-15.directserver.us/?file=mega_82f95ea944
+
+#EXTINF:-1 group-title="O negocio",EP 13
+http://srv-10.directserver.us/?file=mega_d99f49d4ce
+
+
+#########################
