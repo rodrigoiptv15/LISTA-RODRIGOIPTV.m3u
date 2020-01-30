@@ -1,7 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-
-
+#EXTINF:-1 group-title="CANAIS",A&E
+http://188.165.221.28:25461/live/AIJCLFJ78CAK5d/837cAIgkfGNl/1490.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
