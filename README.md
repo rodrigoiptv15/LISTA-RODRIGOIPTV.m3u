@@ -1,16 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-#EXTINF:-1 group-title="CANAIS",MTV
-https://live.multicanais.com/mylive/mtvsd/video.m3u8?md5=JQ7-d9OEUuwSpatbxycugg&expires=1580184426
 
-#EXTINF:-1 group-title="FILMES ALICE",Disney XD
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyXDBRA/master_Layer2.m3u8
 
-#EXTINF:-1 group-title="FILMES ALICE",Disney Jr
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyJrBRA/master_Layer2.m3u8
-
-#EXTINF:-1 group-title="FILMES ALICE",Disney Channel
-http://mj1b2xsspj.singularcdn.net.br/encompass/DisneyChannelBRA/master_Layer2.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
