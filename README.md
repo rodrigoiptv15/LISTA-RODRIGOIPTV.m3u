@@ -197,8 +197,8 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
 
-#EXTINF:-1 group-title="FILMES",
-
+#EXTINF:-1 group-title="FILMES",exterminador do futuro
+http://srv-13.directserver.us/?file=mega_cb5ee4a383
 
 
 
