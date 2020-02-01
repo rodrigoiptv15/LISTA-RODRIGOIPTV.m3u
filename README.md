@@ -213,7 +213,7 @@ http://srv-17.directserver.us/?file=mega_effa0d8867
 http://srv-11.directserver.us/?file=mega_688a5652f4
 
 #EXTINF:-1 group-title="FILMES",Rambo ate o Fim
-http://srv-12.directserver.us/?file=mega_f1528e286a
+http://telegramfiles.com/1812549/%40BoxStream_Rambo%20-%20At%C3%A9%20o%20Fim.mp4
 
 #EXTINF:-1 group-title="FILMES",MIB 2019
 http://telegramfiles.com/1800778/%40BlurayFilmes_MIB%20Homens%20de%20Preto%20-%20Internacional%20%282019%29.mp4
@@ -224,7 +224,8 @@ http://telegramfiles.com/1812350/videoplayback.mp4
 #EXTINF:-1 group-title="FILMES",As golpistas
 https://tor.checker.in/dl/699990287/Hustlers.2019.1080p.BDRip.Dublado.mkv
 
-#EXTINF:-1 group-title="FILMES",
+#EXTINF:-1 group-title="FILMES",hobs e shaw
+http://192.168.1.100:30001/file/G7TrGbWX/video.mp4
 
 #########################
 
