@@ -224,8 +224,8 @@ http://telegramfiles.com/1812350/videoplayback.mp4
 #EXTINF:-1 group-title="FILMES",As golpistas
 https://tor.checker.in/dl/699990287/Hustlers.2019.1080p.BDRip.Dublado.mkv
 
-#EXTINF:-1 group-title="FILMES",hobs e shaw
-http://192.168.1.100:30001/file/G7TrGbWX/video.mp4
+#EXTINF:-1 group-title="FILMES",Proxima Fase
+https://tor.checker.in/dl/700492217/Proxima.Fase.Fugindo.de.Rancala.2019.720p.WEB_DL.6CH.x264.DUBLADO_LAPUMiA.mp4
 
 #########################
 
