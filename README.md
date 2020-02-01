@@ -402,6 +402,12 @@ http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
 #########################
 
 
+#EXTINF:-1 group-title="thefollowing 2",EP 01
+https://bit.ly/3b3ZYkz
+
+
+#########################
+
 
 #EXTINF:-1 group-title="O negocio",EP 01
 http://srv-11.directserver.us/?file=mega_e619c0a5a6
