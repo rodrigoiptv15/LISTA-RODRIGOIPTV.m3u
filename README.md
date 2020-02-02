@@ -3,7 +3,6 @@
 
 
 
-
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
 
@@ -198,8 +197,8 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
 
-#EXTINF:-1 group-title="FILMES",HOBS E SHAW
-http://192.168.1.128:30001/file/SW9xsLwP/video.mp4
+#EXTINF:-1 group-title="FILMES",HOBS & SHAW
+http://192.168.1.128:30001/file/l7gnI9cp/video.mp4
 
 
 #########################
