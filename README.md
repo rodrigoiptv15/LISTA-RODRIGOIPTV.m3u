@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="CANAIS",TESTE SD
-content://0@media/external/video/media/948
+http://192.168.1.100:30001/file/d0Evo4VI/video.mp4
 
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
