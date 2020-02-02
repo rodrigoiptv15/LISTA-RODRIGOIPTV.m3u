@@ -372,6 +372,23 @@ http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e09-dub-720p.mp4
 #EXTINF:-1 group-title="thefollowing",EP 10
 http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
 
+#EXTINF:-1 group-title="thefollowing",EP 11
+https://www98.uptostream.com/1hoqhh9cb96/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing",EP 12
+https://cdn4.letsupload.co/kk9Q/TH3.F0LL0W1NG.T01E12.MP4
+
+#EXTINF:-1 group-title="thefollowing",EP 13
+
+
+#EXTINF:-1 group-title="thefollowing",EP 14
+
+
+#EXTINF:-1 group-title="thefollowing",EP 15
+
+
+
+
 
 #########################
 
