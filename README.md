@@ -2,8 +2,13 @@
 
 
 
+
+
 #EXTINF:-1 group-title="CANAIS",TESTE SD
 http://192.168.1.100:30001/file/d0Evo4VI/video.mp4
+
+#EXTINF:-1 group-title="CANAIS",TESTE sd galeria
+http://192.168.1.100:30001/file/tm6vOnms/video.mp4
 
 
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
