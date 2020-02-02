@@ -379,6 +379,51 @@ http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
 #EXTINF:-1 group-title="thefollowing 2",EP 01
 https://www7.uptostream.com/1ho2pnc9fcc/480/0/video.mp4
 
+#EXTINF:-1 group-title="thefollowing 2",EP 02
+https://www82.uptostream.com/1ho9zf9f048/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 03
+https://www83.uptostream.com/1hoj5jcd1f6/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 04
+https://www42.uptostream.com/1hok8y07337/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 05
+https://www53.uptostream.com/1hokgqu0560/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 06
+https://www47.uptostream.com/1hokr3l3f36/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 07
+https://www13.uptostream.com/1hokzs06631/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 08
+https://www92.uptostream.com/1hol610f28a/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 09
+https://www74.uptostream.com/1holdd07dbe/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 10
+https://www80.uptostream.com/1holk3ua1ad/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 11
+https://www50.uptostream.com/1holy03223f/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 12
+https://www39.uptostream.com/1hom4no90c8/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 13
+https://www80.uptostream.com/1homayo6970/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 14
+https://www72.uptostream.com/1homidu0ccb/480/0/video.mp4
+
+#EXTINF:-1 group-title="thefollowing 2",EP 15
+https://www75.uptostream.com/1homp035600/480/0/video.mp4
+
+
+
+
 
 #########################
 
