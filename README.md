@@ -4,13 +4,6 @@
 
 
 
-#EXTINF:-1 group-title="CANAIS",TESTE SD
-http://192.168.1.100:30001/file/d0Evo4VI/video.mp4
-
-#EXTINF:-1 group-title="CANAIS",TESTE sd galeria
-http://192.168.1.100:30001/file/tm6vOnms/video.mp4
-
-
 #EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
 http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
 
@@ -205,35 +198,9 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
 
-#EXTINF:-1 group-title="FILMES",exterminador do futuro
-http://srv-13.directserver.us/?file=mega_cb5ee4a383
+#EXTINF:-1 group-title="FILMES",HOBS E SHAW
+http://192.168.1.128:30001/file/SW9xsLwP/video.mp4
 
-#EXTINF:-1 group-title="FILMES",zumbilandia
-http://srv-6.directserver.us/?file=mega_680010628b
-
-#EXTINF:-1 group-title="FILMES",o menino que queria ser rei
-http://servidoresdedicado.net/looktvs/O%20Menino%20que%20Queria%20Ser%20Rei%20Dublado.mp4
-
-#EXTINF:-1 group-title="FILMES",Malévola.Dona.do.Mal
-http://srv-17.directserver.us/?file=mega_effa0d8867
-
-#EXTINF:-1 group-title="FILMES",Centro de Trauma
-http://srv-11.directserver.us/?file=mega_688a5652f4
-
-#EXTINF:-1 group-title="FILMES",Rambo ate o Fim
-http://telegramfiles.com/1812549/%40BoxStream_Rambo%20-%20At%C3%A9%20o%20Fim.mp4
-
-#EXTINF:-1 group-title="FILMES",MIB 2019
-http://telegramfiles.com/1800778/%40BlurayFilmes_MIB%20Homens%20de%20Preto%20-%20Internacional%20%282019%29.mp4
-
-#EXTINF:-1 group-title="FILMES",era uma vez deadpool
-http://telegramfiles.com/1812350/videoplayback.mp4
-
-#EXTINF:-1 group-title="FILMES",As golpistas
-https://tor.checker.in/dl/699990287/Hustlers.2019.1080p.BDRip.Dublado.mkv
-
-#EXTINF:-1 group-title="FILMES",Proxima Fase
-https://tor.checker.in/dl/700492217/Proxima.Fase.Fugindo.de.Rancala.2019.720p.WEB_DL.6CH.x264.DUBLADO_LAPUMiA.mp4
 
 #########################
 
