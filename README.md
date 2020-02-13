@@ -2,13 +2,7 @@
 
 
 #EXTINF:-1 group-title="FILMES",filme web video
-https://fvs.io/redirector?token=T1RMQUR0SkErbkl6WVJzTFNMd2xmdWhHejl2bUJaR2FlWTh3dXBNMkhnQTR2OXF4a0ttd2t2bm05QjE5eTJhQWE1aExyM01ZMGJNdFJlSjNKODhkMm94RWM4U3c5Rm9SRk10Y2JwNWtoVGZDOFBwMnVEb2xmaERZTkp0ZzZySlQ5dXV4bk9iVFB5aUJnSTdzYVorOVoyRDRSMjE3YXFId3BZWT06dGZSR3RYUWNIQUV1QUZ4clpSRnJNZz09
-
-#EXTINF:-1 group-title="FILMES",Vingança
-https://dfh46j.vkcache.com/secip/0/ZzznIwkL_aK2M_LBgDofbQ/MTg3Ljg0LjExLjE2Nw==/1580958000/hls-vod-s05/flv/api/files/videos/2018/08/02/1533156895blbxv.mp4.m3u8
-
-#EXTINF:-1 group-title="FILMES ALICE",FROZEN 2
-http://samurai02.polybotes.feralhosting.com/Infantil/Frozen.2.2019.DVDScr.Dublado.mp4
+https://www692.o0-2.com/token=9yAdlzNX2LcskNU3ACDr4Q/1581567034/191.101.0.0/54/1/5c/31b55c82db9ad9639d0d37acb56355c1-480p.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
