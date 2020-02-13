@@ -1,8 +1,8 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="FILMES",1917
-https://www440.o0-1.com/token=gOiz_3Rb4GR9ono8ZxXQqQ/1581598886/177.54.0.0/102/3/8b/dc9cf53135d09604cd79641b886e28b3-360p.mp4
+#EXTINF:-1 group-title="FILMES",Minha mãe é uma peça 3
+https://tor.checker.in/dl/704427809/Minha.Mae.e.Uma.Peca.3.2019.720p.HDCAM.x264_LAPUMiA.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
