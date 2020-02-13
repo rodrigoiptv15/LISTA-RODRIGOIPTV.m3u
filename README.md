@@ -1,8 +1,8 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="FILMES",filme snap
-/storage/emulated/0/snaptube/download/SnapTube Video/telegramfiles.com-3ca158fdc3fe45afbd33af14b9d04b01(mp4).mp4
+#EXTINF:-1 group-title="FILMES",filme web video
+https://fvs.io/redirector?token=T1RMQUR0SkErbkl6WVJzTFNMd2xmdWhHejl2bUJaR2FlWTh3dXBNMkhnQTR2OXF4a0ttd2t2bm05QjE5eTJhQWE1aExyM01ZMGJNdFJlSjNKODhkMm94RWM4U3c5Rm9SRk10Y2JwNWtoVGZDOFBwMnVEb2xmaERZTkp0ZzZySlQ5dXV4bk9iVFB5aUJnSTdzYVorOVoyRDRSMjE3YXFId3BZWT06dGZSR3RYUWNIQUV1QUZ4clpSRnJNZz09
 
 #EXTINF:-1 group-title="FILMES",Vingança
 https://dfh46j.vkcache.com/secip/0/ZzznIwkL_aK2M_LBgDofbQ/MTg3Ljg0LjExLjE2Nw==/1580958000/hls-vod-s05/flv/api/files/videos/2018/08/02/1533156895blbxv.mp4.m3u8
