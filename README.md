@@ -4,6 +4,13 @@
 #EXTINF:-1 group-title="FILMES",Minha mãe é uma peça 3
 https://tor.checker.in/dl/704427809/Minha.Mae.e.Uma.Peca.3.2019.720p.HDCAM.x264_LAPUMiA.mp4
 
+
+
+
+
+#EXTINF:-1 group-title="FILMES ALICE",A Pequena Sereia
+http://127.0.0.1:4443/hANAAQRQ/4bc66b55c8a7f6648e7ad00606d3d508-720p.MP4
+
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
 
