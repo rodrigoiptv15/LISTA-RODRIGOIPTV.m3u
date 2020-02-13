@@ -1,8 +1,8 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="FILMES",filme web video
-https://www692.o0-2.com/token=9yAdlzNX2LcskNU3ACDr4Q/1581567034/191.101.0.0/54/1/5c/31b55c82db9ad9639d0d37acb56355c1-480p.mp4
+#EXTINF:-1 group-title="FILMES",1917
+https://www440.o0-1.com/token=gOiz_3Rb4GR9ono8ZxXQqQ/1581598886/177.54.0.0/102/3/8b/dc9cf53135d09604cd79641b886e28b3-360p.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
