@@ -1,8 +1,9 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="FILMES",Minha mãe é uma peça 3
-https://tor.checker.in/dl/704427809/Minha.Mae.e.Uma.Peca.3.2019.720p.HDCAM.x264_LAPUMiA.mp4
+#EXTINF:-1 group-title="CANAIS",BBB20
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bbb20_c1dfd96e_0f6df72d555c87ebe80b3c7a4ef2d86601895402/playlist.m3u8
+
 
 
 
