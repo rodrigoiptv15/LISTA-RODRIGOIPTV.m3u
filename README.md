@@ -2,12 +2,16 @@
 
 
 #EXTINF:-1 group-title="CANAIS",BBB20
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bbb20_c1dfd96e_0f6df72d555c87ebe80b3c7a4ef2d86601895402/playlist.m3u8
+https://d1cy34jllwtrns.cloudfront.net/hls1/bbbnew.m3u8?wmsAuthSign=
 
+#EXTINF:-1 group-title="CANAIS",BBB20 2
+https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
 
+#EXTINF:-1 group-title="FILMES ALICE",DISNEY JR
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 
-
-
+#EXTINF:-1 group-title="FILMES ALICE",DISCOVERY  KIDS
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1431167_sleng.m3u8
 
 #EXTINF:-1 group-title="FILMES ALICE",A Pequena Sereia
 http://127.0.0.1:4443/hANAAQRQ/4bc66b55c8a7f6648e7ad00606d3d508-720p.MP4
@@ -23,6 +27,9 @@ http://samurai02.polybotes.feralhosting.com/Infantil/ENROLADOS.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",frozem
 http://samurai02.polybotes.feralhosting.com/Infantil/FROZEN.mp4
+
+#EXTINF:-1 group-title="FILMES ALICE",frozem 2
+https://video.wixstatic.com/video/63b653_b238e4cd6b7644af8818269d6d2f2e1a/480p/mp4/file.mp4
 
 #EXTINF:-1 group-title="FILMES ALICE",O REI DO SHOW
 http://cdn3.top-filmes.xyz/data/FILMES/o-rei-do-show-2017-dub.mp4
@@ -203,9 +210,21 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
 
-#EXTINF:-1 group-title="FILMES",HOBS & SHAW
-http://192.168.1.128:30001/file/l7gnI9cp/video.mp4
+#EXTINF:-1 group-title="FILMES",OS PARÇAS 2
+https://video.wixstatic.com/video/5e21d5_8c21c1b6c4fa4ac9bae3fbf31bc5aafe/360p/mp4/file.mp4
 
+#EXTINF:-1 group-title="FILMES",Minha mãe é uma peça 3
+https://video.wixstatic.com/video/090812_0a80207b77ff480b8abd1a7d8cb4b7a7/480p/mp4/file.mp4
+
+#EXTINF:-1 group-title="CAM",JAPÃO
+https://videos3.earthcam.com/fecnetwork/tokyo1.flv/chunklist_w942388906.m3u8
+
+
+#EXTINF:-1 group-title="CAM",LAS VEGAS
+https://videos3.earthcam.com/fecnetwork/16812.flv/chunklist_w1224718093.m3u8
+
+
+#EXTINF:-1 group-title="FILMES",
 
 #########################
 
