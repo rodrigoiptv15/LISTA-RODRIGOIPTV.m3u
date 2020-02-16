@@ -213,18 +213,24 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 #EXTINF:-1 group-title="FILMES",OS PARÇAS 2
 https://video.wixstatic.com/video/5e21d5_8c21c1b6c4fa4ac9bae3fbf31bc5aafe/360p/mp4/file.mp4
 
-#EXTINF:-1 group-title="FILMES",Minha mãe é uma peça 3
-https://video.wixstatic.com/video/090812_0a80207b77ff480b8abd1a7d8cb4b7a7/480p/mp4/file.mp4
 
-#EXTINF:-1 group-title="CAM",JAPÃO
-https://videos3.earthcam.com/fecnetwork/tokyo1.flv/chunklist_w942388906.m3u8
+#EXTINF:-1 group-title="FILMES",Aves De Rapina
+https://video.wixstatic.com/video/f076ef_9a6bf6c7d42142efa9a1ddaf07913813/720p/mp4/file.mp4
 
 
-#EXTINF:-1 group-title="CAM",LAS VEGAS
-https://videos3.earthcam.com/fecnetwork/16812.flv/chunklist_w1224718093.m3u8
+#EXTINF:-1 group-title="FILMES",A Estrada
+https://video.wixstatic.com/video/f076ef_5671f23ee53d4c8e8e2796d94bbb9b1a/720p/mp4/file.mp4
 
 
-#EXTINF:-1 group-title="FILMES",
+#EXTINF:-1 group-title="FILMES",Bad Boys para sempre
+https://video.wixstatic.com/video/f076ef_87161c43311b4e4297c3abdbc0a0f52e/720p/mp4/file.mp4
+
+
+#EXTINF:-1 group-title="FILMES",1917
+https://storage.googleapis.com/apk-cine5g.appspot.com/filmes/1917-Cinema.mp4
+
+#EXTINF:-1 group-title="FILMES",jumanj próxima fase
+https://video.wixstatic.com/video/f076ef_a6d529c8221d4c319756cc44450ee2e1/720p/mp4/file.mp4
 
 #########################
 
