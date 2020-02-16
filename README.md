@@ -229,8 +229,13 @@ https://video.wixstatic.com/video/f076ef_87161c43311b4e4297c3abdbc0a0f52e/720p/m
 #EXTINF:-1 group-title="FILMES",1917
 https://storage.googleapis.com/apk-cine5g.appspot.com/filmes/1917-Cinema.mp4
 
+
 #EXTINF:-1 group-title="FILMES",jumanj próxima fase
 https://video.wixstatic.com/video/f076ef_a6d529c8221d4c319756cc44450ee2e1/720p/mp4/file.mp4
+
+
+#EXTINF:-1 group-title="FILMES",Família Adams
+https://video.wixstatic.com/video/f076ef_2bdc16fa40f94f24a6f6f271d082f8a6/720p/mp4/file.mp4
 
 #########################
 
