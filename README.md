@@ -13,8 +13,8 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1 group-title="FILMES ALICE",DISCOVERY  KIDS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 group-title="FILMES ALICE",A Pequena Sereia
-http://127.0.0.1:4443/hANAAQRQ/4bc66b55c8a7f6648e7ad00606d3d508-720p.MP4
+#EXTINF:-1 group-title="FILMES ALICE",Branca de neve
+https://r5---sn-bg0ezn7e.googlevideo.com/videoplayback?expire=1581961790&ei=HrZKXqX8JN6O1gKgs7Mo&ip=78.46.192.206&id=8186a6bacabca821&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=4991.268&lmt=1578288748949778&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAKqPZOs5eDvyEQ9IqfBSw4SEhnUGwGCYZqfg555h9kbFAiB4JSShKvdRFVSpfk01dyRt1-eJoZEm2wXdibf89eRpfg==&cms_redirect=yes&mip=177.54.148.242&mm=30&mn=sn-bg0ezn7e&ms=nxu&mt=1581961523&mv=m&mvi=4&pl=24&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgFsj2jHXOobpiYJV5G2LHkoRsHpsuQqWLk01jg6x-j4MCICtOdPaIPH-0sm2st7wPKCfiMZe6MvIRnUgBR-khzF5P
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
