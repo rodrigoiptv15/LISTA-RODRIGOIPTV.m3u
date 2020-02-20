@@ -1,11 +1,11 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="CANAIS",BBB20
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbbnew.m3u8?wmsAuthSign=
+#EXTINF:-1 group-title="Filmes",As golpistas
+https://video.wixstatic.com/video/f076ef_f8a78cbd00df467587f5c31719ff0739/480p/mp4/file.mp4
 
-#EXTINF:-1 group-title="CANAIS",BBB20 2
-https://d1cy34jllwtrns.cloudfront.net/hls1/bbb.m3u8?wmsAuthSign=
+
+
 
 #EXTINF:-1 group-title="FILMES ALICE",DISNEY JR
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
@@ -13,8 +13,6 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
 #EXTINF:-1 group-title="FILMES ALICE",DISCOVERY  KIDS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1431167_sleng.m3u8
 
-#EXTINF:-1 group-title="FILMES ALICE",Branca de neve
-https://r5---sn-bg0ezn7e.googlevideo.com/videoplayback?expire=1581961790&ei=HrZKXqX8JN6O1gKgs7Mo&ip=78.46.192.206&id=8186a6bacabca821&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=4991.268&lmt=1578288748949778&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAKqPZOs5eDvyEQ9IqfBSw4SEhnUGwGCYZqfg555h9kbFAiB4JSShKvdRFVSpfk01dyRt1-eJoZEm2wXdibf89eRpfg==&cms_redirect=yes&mip=177.54.148.242&mm=30&mn=sn-bg0ezn7e&ms=nxu&mt=1581961523&mv=m&mvi=4&pl=24&lsparams=mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgFsj2jHXOobpiYJV5G2LHkoRsHpsuQqWLk01jg6x-j4MCICtOdPaIPH-0sm2st7wPKCfiMZe6MvIRnUgBR-khzF5P
 
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
@@ -71,101 +69,10 @@ http://samurai02.polybotes.feralhosting.com/Infantil/PETS.A.VIDA.SECRETA.DOS.BIC
 
 
 
-#######################
-
-
-
 
 #########################
 
 
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/8LhMO8H2J6vei62l14w8gQ02jRX_small.jpg" group-title="O Residente", O Residente S01 E05
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E05.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/i09sqPISxkZoOZdV6km1SLceTqt_small.jpg" group-title="O Residente", O Residente S01 E06
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E06.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/jwJIxzyP1eIggbpV0y74SMcZutH_small.jpg" group-title="O Residente", O Residente S01 E07
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E07.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/1awUZYxT7xdQyIDaoMYoVD31dwV_small.jpg" group-title="O Residente", O Residente S01 E08
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E08.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/w6zyJ0WXBpbUN0b3LZyyGX2xUTx_small.jpg" group-title="O Residente", O Residente S01 E09
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E09.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/cJNBGOATnvw4OUZrUHtRUkiZZUl_small.jpg" group-title="O Residente", O Residente S01 E10
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E10.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/rB7lFODM0uNaqSaTwRrzBngjRYi_small.jpg" group-title="O Residente", O Residente S01 E11
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E11.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/2TthrVOZ74XyPZRp1OegGpmNWeC_small.jpg" group-title="O Residente", O Residente S01 E12
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E12.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/zCsm7cojuEnJzsyp50RzEUrPtOc_small.jpg" group-title="O Residente", O Residente S01 E13
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E13.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/8VA4mNStzXKnnh9kVVrGk5OwqMq_small.jpg" group-title="O Residente", O Residente S01 E14
-http://samurai.demeter.feralhosting.com/O.Resident/S01/CAP.S01E14.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/iq4RwuomQiLBq3Agh99p7Hr3Dqd_small.jpg" group-title="O Residente", O Residente S02 E01
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E01.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/bYLZt2KONh1zxZgYiMAcWuUDiv9_small.jpg" group-title="O Residente", O Residente S02 E02
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E02.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/21KFlFwuW0TquugIBvDhv4RwmPb_small.jpg" group-title="O Residente", O Residente S02 E03
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E03.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/5Nu39UkWmSPDpkTEOL2qBAKABqF_small.jpg" group-title="O Residente", O Residente S02 E04
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E04.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/eSQO1Mq4nrGWCNJp2BYlPWipE7X_small.jpg" group-title="O Residente", O Residente S02 E05
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E05.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/236l0F4HuqBXKnFekJRVaAqeXsg_small.jpg" group-title="O Residente", O Residente S02 E06
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E06.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/wLVExYCcAyVHTfLKWIK62pSoozD_small.jpg" group-title="O Residente", O Residente S02 E07
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E07.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/qQ06vtj0vjOIwGgIMuh2zAWW1lG_small.jpg" group-title="O Residente", O Residente S02 E08
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E08.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/rsZnbidmSchz8Kq16DVq4ur2E6u_small.jpg" group-title="O Residente", O Residente S02 E09
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E09.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/sqekhW0e8x9qlD1yyuR7m05jFh2_small.jpg" group-title="O Residente", O Residente S02 E10
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E10.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/kxD2qOZU6vPIsXPmhgmGaXru8Yf_small.jpg" group-title="O Residente", O Residente S02 E11
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E11.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/yQIh2qZNxF9WRGUYDo7t5VVLVa8_small.jpg" group-title="O Residente", O Residente S02 E12
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E12.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/8l3WcUdt2kTOKsLIvQxsntOf5xD_small.jpg" group-title="O Residente", O Residente S02 E13
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E13.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/gUdUU5H2l9mkmYIi7hJsRmeNmDZ_small.jpg" group-title="O Residente", O Residente S02 E14
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E14.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/aW9eMO2WTEYkJAkEvS0d8DX5bMe_small.jpg" group-title="O Residente", O Residente S02 E15
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E15.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/yQrNYKksH2UoTipKPgoIV2Qp54K_small.jpg" group-title="O Residente", O Residente S02 E16
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E16.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/nD4p1Nu6iaCUVxcPt9gYBQ1Cvet_small.jpg" group-title="O Residente", O Residente S02 E17
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E17.mp4
-
-#EXTINF:-1 tvg-logo="http://quatv2.com:8080/images/fk5Y8NvSapOm5v4iQ8OE4hZWGVy_small.jpg" group-title="O Residente", O Residente S02 E18
-http://samurai.demeter.feralhosting.com/O.Resident/S02/CAP.S02E18.mp4
-
-
-
-#########################
 
 
 
@@ -206,7 +113,15 @@ http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E11.mp4
 http://samurai.demeter.feralhosting.com/De.Ferias.Com.o.EX.Brasil/S03/S03E12.mp4
 
 
+
+
+
+
 #########################
+
+
+
+
 
 
 #EXTINF:-1 group-title="FILMES",Sonic 2020
@@ -239,68 +154,8 @@ https://video.wixstatic.com/video/f076ef_a6d529c8221d4c319756cc44450ee2e1/720p/m
 #EXTINF:-1 group-title="FILMES",Família Adams
 https://video.wixstatic.com/video/f076ef_2bdc16fa40f94f24a6f6f271d082f8a6/720p/mp4/file.mp4
 
-#########################
 
 
-
-
-#EXTINF:-1 group-title="OZ",EP 01
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E01.mp4
-
-#EXTINF:-1 group-title="OZ",EP 02
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E02.mp4
-
-#EXTINF:-1 group-title="OZ",EP 03
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E03.mp4
-
-#EXTINF:-1 group-title="OZ",EP 04
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E04.mp4
-
-#EXTINF:-1 group-title="OZ",EP 05
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E05.mp4
-
-#EXTINF:-1 group-title="OZ",EP 06
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E06.mp4
-
-#EXTINF:-1 group-title="OZ",EP 07
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E07.mp4
-
-#EXTINF:-1 group-title="OZ",EP 08
-http://samurai.morpheus.feralhosting.com/OZ/S01/S01E08.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="WestWorld",EP 01
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E01.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 02
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E02.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 03
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E03.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 04
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E04.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 05
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E05.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 06
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E06.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 07
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E07.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 08
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E08.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 09
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E09.mp4
-
-#EXTINF:-1 group-title="WestWorld",EP 10
-http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 
 
@@ -309,178 +164,6 @@ http://samurai.aura.feralhosting.com/WestWorld/S01/S01E10.mp4
 
 
 
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 01
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E01.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 02
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E02.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 03
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E03.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 04
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E04.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 05
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E05.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 06
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E06.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 07
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E07.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 08
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E08.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 09
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E09.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 10
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E10.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 11
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E11.mp4
-
-#EXTINF:-1 group-title="ILHA DE FERRO",EP 12
-http://samurai.demeter.feralhosting.com/Ilha%20de%20Ferro/S01/S01E12.mp4
-
-
-
-#########################
-
-
-
-
-#EXTINF:-1 group-title="Truth be told",EP 01
-https://video.wixstatic.com/video/5b69e4_0d19434223f2467f88bec675e2764ed2/480p/mp4/file.mp4 
-
-#EXTINF:-1 group-title="Truth be told",EP 02
-https://video.wixstatic.com/video/5b69e4_bbdfa51b86674ad391e0de8b8ead8c07/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 03
-https://video.wixstatic.com/video/5b69e4_5cfb11ce7bcf4f98aa15a02d658ebe52/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 04
-https://video.wixstatic.com/video/f3f1b7_6eebddbd473e4d79a32d0494304b6eec/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 05
-https://video.wixstatic.com/video/f3f1b7_2d85bb3801a34250951f932e78e52ec4/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 06
-https://video.wixstatic.com/video/2d672e_59f93ccd00734c18a3997bd52041f9c1/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 07
-https://video.wixstatic.com/video/2d672e_285a88cc100448d1bc78f72c65ec2048/480p/mp4/file.mp4
-
-#EXTINF:-1 group-title="Truth be told",EP 08
-https://video.wixstatic.com/video/2d672e_6f5274fb57094365b7d92254db8f303c/480p/mp4/file.mp4
-
-
-#########################
-
-
-#EXTINF:-1 group-title="thefollowing",EP 01
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e01-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 02
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e02-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 03
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e03-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 04
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e04-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 05
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e05-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 06
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e06-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 07
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e07-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 08
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e08-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 09
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e09-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 10
-http://tv.openload.network/lanadelrey/tvshows/thefollowing/s01e10-dub-720p.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 11
-https://www98.uptostream.com/1hoqhh9cb96/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 12
-https://fvs.io/redirector?token=dWc2enhtNlZBTFc3YjFJZDFaNEpGZ2Z2WWZ0NDEzemxVQldGSnpwL1ljMmhDMW9rOUhadTY0TnVGL21FZldkRHNIRXZkbHZKdWNXMCtZVDJOOUEwcndkKy81RTgyYTE2L3lGNkNQbEpxdVpBTnpUaWdnVHl0eGdDZllRb0ZGNVV4VzZrQzFLcVlnR0gwN1FNajdDYTJFZEsxNzluV25uOWl5az06a0RjdDhRa2pwbUwzMnd2Zy9TMlNsdz09
-
-#EXTINF:-1 group-title="thefollowing",EP 13
-https://www65.uptostream.com/1hp2iso0c3a/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 14
-https://www87.uptostream.com/1hp34i96eb5/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing",EP 15
-https://www95.uptostream.com/1hp3be05829/480/0/video.mp4
-
-
-
-
-#########################
-
-
-#EXTINF:-1 group-title="thefollowing 2",EP 01
-https://www7.uptostream.com/1ho2pnc9fcc/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 02
-https://www82.uptostream.com/1ho9zf9f048/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 03
-https://www83.uptostream.com/1hoj5jcd1f6/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 04
-https://www42.uptostream.com/1hok8y07337/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 05
-https://www53.uptostream.com/1hokgqu0560/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 06
-https://www47.uptostream.com/1hokr3l3f36/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 07
-https://www13.uptostream.com/1hokzs06631/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 08
-https://www92.uptostream.com/1hol610f28a/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 09
-https://www74.uptostream.com/1holdd07dbe/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 10
-https://www80.uptostream.com/1holk3ua1ad/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 11
-https://www50.uptostream.com/1holy03223f/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 12
-https://www39.uptostream.com/1hom4no90c8/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 13
-https://www80.uptostream.com/1homayo6970/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 14
-https://www72.uptostream.com/1homidu0ccb/480/0/video.mp4
-
-#EXTINF:-1 group-title="thefollowing 2",EP 15
-https://www75.uptostream.com/1homp035600/480/0/video.mp4
-
-
-
-
-
-#########################
 
 
 #EXTINF:-1 group-title="O negocio",EP 01
