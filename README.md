@@ -1,5 +1,9 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
+
+#EXTINF:-1 group-title="CANAIS",BBB CAM 2
+http://u9in.club:8080/live/marcus01/marcus01/80164.ts
+
 #EXTINF:-1 group-title="CANAIS",TELECINE ACTION
 http://u9in.club:8080/live/marcus01/marcus01/8003.ts
 
