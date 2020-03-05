@@ -1,7 +1,7 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
-
-
+#EXTINF:-1 group-title="CANAIS",TELECINE ACTION
+http://u9in.club:8080/live/marcus01/marcus01/8003.ts
 
 #EXTINF:-1 group-title="FILMES",PERSEGUIÇÃO
 http://telegramfiles.com/2354783/%40MeuLazer%20-%20Perseguicao%20-%202016%20-%20Dual.avi
