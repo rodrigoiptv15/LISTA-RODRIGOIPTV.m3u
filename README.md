@@ -13,8 +13,8 @@ http://telegramfiles.com/2354783/%40MeuLazer%20-%20Perseguicao%20-%202016%20-%20
 #EXTINF:-1 group-title="FILMES",Instinto predador
 http://cnd0w45620.drive.google.com.receitasgratis.xyz/movie/apollo3/M3EdHHZZwU/580.mp4
 
-#EXTINF:-1 group-title="FILMES",As golpistas
-https://video.wixstatic.com/video/f076ef_f8a78cbd00df467587f5c31719ff0739/480p/mp4/file.mp4
+#EXTINF:-1 group-title="FILMES",meu nome é Khan
+http://telegramfiles.com/2822881/Meu_Nome_Eh_Khan__2010__Rmz_Blur.mp4
 
 #EXTINF:-1 group-title="FILMES",Aves De rapina
 https://video.wixstatic.com/video/f076ef_9a6bf6c7d42142efa9a1ddaf07913813/720p/mp4/file.mp4
