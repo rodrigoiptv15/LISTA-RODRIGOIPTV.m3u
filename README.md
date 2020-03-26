@@ -2,6 +2,13 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX", AST TV 1
+https://www.ast.tv/stream/1/high.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX", AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+
+
 
 #EXTINF:-1 group-title="FILMES ALICE",DISNEY JR
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
