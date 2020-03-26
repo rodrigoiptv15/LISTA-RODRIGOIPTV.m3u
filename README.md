@@ -1,23 +1,6 @@
 #PLAYLISTV: pltv-logo= "https://logodownload.org/wp-content/uploads/2015/05/palmeiras-logo.png" pltv-name="LISTA RODRIGO" pltv-description="LISTA GERAL" 
 
 
-#EXTINF:-1 group-title="CANAIS",BBB CAM 2
-http://u9in.club:8080/live/marcus01/marcus01/80164.ts
-
-#EXTINF:-1 group-title="CANAIS",TELECINE ACTION
-http://u9in.club:8080/live/marcus01/marcus01/8003.ts
-
-#EXTINF:-1 group-title="FILMES",PERSEGUIÇÃO
-http://telegramfiles.com/2354783/%40MeuLazer%20-%20Perseguicao%20-%202016%20-%20Dual.avi
-
-#EXTINF:-1 group-title="FILMES",Instinto predador
-http://cnd0w45620.drive.google.com.receitasgratis.xyz/movie/apollo3/M3EdHHZZwU/580.mp4
-
-#EXTINF:-1 group-title="FILMES",meu nome é Khan
-http://192.168.1.103:30001/file/sYKCo5kc/video.mp4
-
-#EXTINF:-1 group-title="FILMES",Aves De rapina
-https://video.wixstatic.com/video/f076ef_9a6bf6c7d42142efa9a1ddaf07913813/720p/mp4/file.mp4
 
 
 #EXTINF:-1 group-title="FILMES ALICE",DISNEY JR
