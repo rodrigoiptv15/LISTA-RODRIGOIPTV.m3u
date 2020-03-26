@@ -2,16 +2,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX", AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX", AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-
-
 
 #EXTINF:-1 group-title="FILMES ALICE",DISNEY JR
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/master.m3u8
+
 
 #EXTINF:-1 group-title="FILMES ALICE",DISCOVERY  KIDS
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1431167_sleng.m3u8
@@ -20,11 +14,14 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunkli
 #EXTINF:-1 group-title="FILMES ALICE",A BAILARINA
 http://samurai02.polybotes.feralhosting.com/Infantil/A.BAILARINA.mp4
 
+
 #EXTINF:-1 group-title="FILMES ALICE",Moana
 http://samurai02.polybotes.feralhosting.com/Infantil/MOANA.UM.MAR.DE.AVENTURAS.mp4
 
+
 #EXTINF:-1 group-title="FILMES ALICE",Enrolados
 http://samurai02.polybotes.feralhosting.com/Infantil/ENROLADOS.mp4
+
 
 #EXTINF:-1 group-title="FILMES ALICE",frozem
 http://samurai02.polybotes.feralhosting.com/Infantil/FROZEN.mp4
